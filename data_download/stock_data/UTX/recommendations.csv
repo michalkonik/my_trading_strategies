@@ -1,0 +1,108 @@
+Date	Firm	To Grade	From Grade	Action
+2012-03-12	Sterne Agee	Buy		main
+2012-03-19	Citigroup	Neutral		main
+2012-03-20	Drexel Hamilton	Buy		main
+2012-03-22	Jefferies	Buy		main
+2012-03-23	Jefferies	Buy		main
+2012-04-11	Deutsche Bank	Buy		main
+2012-07-12	Citigroup	Neutral		main
+2012-07-27	Jefferies	Buy		main
+2012-07-30	Deutsche Bank	Buy		main
+2012-09-05	Citigroup	Neutral		main
+2012-09-28	Oppenheimer	Perform	Outperform	down
+2012-10-01	Barclays	Overweight		main
+2013-01-24	Credit Suisse	Outperform		main
+2013-01-24	Jefferies	Buy		main
+2013-01-24	Nomura	Buy		main
+2013-03-12	UBS	Buy		main
+2013-03-18	Citigroup	Buy	Neutral	up
+2013-03-28	Morgan Stanley	Overweight		init
+2013-04-02	Deutsche Bank	Buy		main
+2013-07-24	Nomura	Buy		main
+2013-07-24	Jefferies	Buy		main
+2013-08-02	UBS	Buy		main
+2013-12-13	William Blair	Market Perform	Outperform	down
+2014-01-08	Citigroup	Neutral	Buy	down
+2014-03-21	Goldman Sachs	Buy	Neutral	up
+2014-04-23	Barclays	Overweight		main
+2014-04-23	Deutsche Bank	Buy		main
+2014-04-23	Credit Suisse	Outperform		main
+2014-04-23	Morgan Stanley	Overweight		main
+2014-04-23	JP Morgan	Overweight		main
+2014-07-09	JP Morgan		Overweight	main
+2014-07-09	Deutsche Bank	Buy		main
+2014-07-23	Barclays	Overweight		main
+2014-07-23	Citigroup	Neutral		main
+2014-07-23	Wells Fargo	Market Perform	Outperform	down
+2014-08-12	Cowen & Co.	Market Perform	Outperform	down
+2014-08-13	UBS	Buy		main
+2014-09-17	Stifel Nicolaus	Hold		init
+2014-10-01	JP Morgan	Overweight		main
+2014-10-08	Jefferies	Buy		main
+2014-10-09	Deutsche Bank	Buy		main
+2014-10-10	Tigress Financial	Buy		init
+2014-11-25	Wells Fargo	Outperform	Market Perform	up
+2014-12-08	Bernstein	Outperform	Market Perform	up
+2014-12-08	Jefferies	Buy		main
+2015-01-20	Barclays	Overweight		main
+2015-01-23	Citigroup	Buy		init
+2015-01-27	Citigroup	Buy		main
+2015-02-03	Argus	Buy		main
+2015-03-04	Standpoint Research	Hold	Buy	down
+2015-04-15	Citigroup	Buy		main
+2015-07-10	Deutsche Bank	Buy		main
+2015-07-22	Barclays	Overweight		main
+2015-07-22	Deutsche Bank	Hold	Buy	down
+2015-07-22	Atlantic Equities	Neutral		down
+2015-07-22	Citigroup	Buy		main
+2015-07-23	Cowen & Co.	Outperform	Market Perform	up
+2015-08-31	Barclays	Equal-Weight	Overweight	down
+2015-09-10	Citigroup	Buy		main
+2015-10-08	JP Morgan	Neutral		init
+2015-10-13	RBC Capital	Sector Perform	Outperform	down
+2015-10-21	Citigroup	Buy		main
+2016-01-06	Sterne Agee CRT	Neutral	Buy	down
+2016-01-08	Bernstein	Market Perform	Outperform	down
+2016-03-01	RBC Capital	Outperform	Sector Perform	up
+2016-05-02	Goldman Sachs	Neutral	Buy	down
+2016-05-03	RBC Capital	Sector Perform	Outperform	down
+2016-07-27	Barclays	Equal-Weight		main
+2016-09-19	UBS	Buy		main
+2016-10-06	Baird	Neutral		init
+2016-10-10	Citigroup	Neutral		main
+2016-10-10		Neutral		main
+2016-12-05	Deutsche Bank	Hold		main
+2016-12-19	Credit Suisse	Outperform	Neutral	up
+2017-01-12	RBC Capital	Sector Perform		init
+2017-01-26	Argus	Hold	Buy	down
+2017-09-06	Cowen & Co.	Market Perform	Outperform	down
+2017-09-06	Deutsche Bank	Hold		main
+2017-10-25	Stifel Nicolaus	Hold		main
+2017-12-05	Atlantic Equities	Overweight	Neutral	up
+2018-01-05	Baird	Outperform	Neutral	up
+2018-01-08	Goldman Sachs	Buy	Neutral	up
+2018-01-26	Stifel Nicolaus	Hold	Hold	main
+2018-02-15	Barclays	Overweight		init
+2018-02-26	Barclays	Overweight	Overweight	main
+2018-04-25	Stifel Nicolaus	Hold	Hold	main
+2018-05-08	Daiwa Capital	Outperform	Neutral	up
+2018-12-17	Barclays	Overweight	Overweight	main
+2019-01-04	Citigroup	Neutral	Neutral	main
+2019-01-04	RBC Capital	Sector Perform	Outperform	down
+2019-01-11	Barclays	Overweight	Overweight	main
+2019-04-24	Barclays	Overweight	Overweight	main
+2019-05-10	Seaport Global	Neutral		init
+2019-05-20	Morgan Stanley	Overweight		main
+2019-06-10	Seaport Global	Buy	Neutral	up
+2019-06-24	Cowen & Co.	Outperform	Market Perform	up
+2019-07-24	Barclays	Overweight		main
+2019-09-17	Bernstein	Market Perform		main
+2019-10-03	Credit Suisse	Outperform		init
+2019-10-10	JP Morgan	Overweight		main
+2019-12-04	Cowen & Co.	Outperform		main
+2020-01-15	UBS	Buy		main
+2020-01-29	Credit Suisse	Outperform		main
+2020-01-31	Credit Suisse	Outperform		main
+2020-01-31	Benchmark	Buy		init
+2020-02-11	Credit Suisse	Outperform		main
+2020-02-12	Credit Suisse	Outperform		main

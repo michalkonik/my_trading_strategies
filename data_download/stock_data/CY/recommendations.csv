@@ -1,0 +1,86 @@
+Date	Firm	To Grade	From Grade	Action
+2012-03-07 06:58:00	Wunderlich	Buy		main
+2012-03-07 12:25:00	UBS	Buy		main
+2012-04-20 06:46:00	JP Morgan	Underweight		main
+2012-04-20 07:18:00	Wedbush	Outperform		main
+2012-05-18 12:20:00	UBS	Neutral		down
+2012-07-10 10:36:00	Pacific Crest	Sector Perform		init
+2012-07-17 13:11:00	Wedbush	Outperform		main
+2012-07-20 06:02:00	Wunderlich	Buy		main
+2012-07-20 08:46:00	Wedbush	Outperform		main
+2012-07-20 11:40:00	UBS	Neutral		main
+2012-07-23 06:39:00	Cantor Fitzgerald	Hold	Sell	up
+2012-08-28 07:47:00	Feltl & Co.	Buy		init
+2012-10-08 07:56:00	Feltl & Co.	Hold		main
+2012-10-16 13:42:00	Wedbush	Outperform		main
+2012-10-19 07:39:00	Nomura	Buy		main
+2012-10-19 08:43:00	Feltl & Co.	Hold		main
+2012-10-19 09:38:00	Citigroup	Neutral		main
+2012-10-19 10:57:00	UBS	Neutral		main
+2012-10-19 12:07:00	Barclays	Overweight		main
+2012-12-10 14:16:34	Blaylock Robert Van	Buy	Strong Buy	down
+2013-01-03 12:16:11	Barclays	Equal-Weight	Overweight	down
+2013-01-07 13:02:48	Blaylock Robert Van	Hold	Buy	down
+2013-01-09 10:04:46	Sterne Agee	Buy		main
+2013-01-09 10:34:40	JP Morgan	Underweight		main
+2013-01-09 12:01:20	Blaylock Robert Van	Hold		main
+2013-01-16 06:55:32	Benchmark	Buy		main
+2013-01-25 07:03:42	Wunderlich	Hold	Buy	down
+2013-01-25 09:28:43	Feltl & Co.	Buy	Hold	up
+2013-02-19 08:24:46	Needham	Buy	Hold	up
+2013-05-06 10:20:07	Topeka	Buy		init
+2013-09-24 09:37:33	Topeka	Hold	Buy	down
+2013-09-24 13:47:45	Needham	Hold	Buy	down
+2013-09-25 06:38:49	Wedbush	Neutral	Outperform	down
+2013-09-25 07:57:29	Nomura	Buy		main
+2013-10-17 16:00:00	Topeka	Hold	Buy	down
+2013-10-18 08:19:29	Pacific Crest	Outperform	Sector Perform	up
+2014-01-24 08:00:00	Citigroup	Neutral		main
+2014-02-27 08:00:00	Pacific Crest	Sector Perform	Outperform	down
+2014-04-21 21:31:55	Citigroup	Neutral		main
+2014-10-17 09:00:00	Credit Suisse	Neutral		main
+2014-12-02 00:00:00	Feltl & Co.	Buy	Hold	up
+2014-12-02 09:00:00	Barclays	Equal-Weight		main
+2014-12-03 00:00:00	Needham	Buy	Hold	up
+2014-12-09 04:15:46	Credit Suisse	Neutral		main
+2014-12-10 07:14:59	Sterne Agee	Buy		main
+2014-12-11 09:00:00	Barclays	Equal-Weight		main
+2014-12-15 00:00:00	Wedbush	Outperform	Neutral	up
+2014-12-29 09:00:00	Barclays	Equal-Weight		main
+2015-01-23 06:07:45	JP Morgan	Neutral	Underweight	up
+2015-05-01 06:30:45	Needham	Strong Buy	Buy	up
+2015-05-22 06:25:51	Mizuho	Buy		init
+2015-07-01 06:49:39	Barclays	Overweight		init
+2015-07-08 08:35:47	Morgan Stanley	Overweight		init
+2015-08-31 05:50:49	Mizuho	Buy		main
+2015-09-08 07:49:29	Sterne Agee CRT	Buy		init
+2015-10-23 13:37:59	Pacific Crest	Overweight		main
+2015-12-14 16:22:09	Oppenheimer	Outperform		init
+2016-01-14 07:34:01	SunTrust Robinson Humphrey	Neutral		init
+2016-01-29 08:06:07	Credit Suisse	Neutral		main
+2016-01-29 08:24:44	Sterne Agee CRT	Neutral	Buy	down
+2016-02-24 07:39:55	Craig-Hallum	Buy		init
+2016-03-07 11:49:03	SunTrust Robinson Humphrey	Neutral		main
+2016-07-18 01:42:27	Morgan Stanley	Equal-Weight	Overweight	down
+2016-07-29 13:00:58	Pacific Crest	Overweight		main
+2016-09-01 06:38:16	Roth Capital	Buy		init
+2016-10-18 09:33:42	Barclays	Equal-Weight	Overweight	down
+2017-03-30 12:44:00	Morgan Stanley	Underweight	Equal-Weight	down
+2017-03-30 15:46:01	Pacific Crest	Overweight		reit
+2017-04-10 17:41:23	SunTrust Robinson Humphrey	Buy	Neutral	up
+2017-06-28 10:46:28	Barclays	Overweight	Equal-Weight	up
+2017-10-27 16:39:46	Credit Suisse	Neutral		main
+2017-10-27 17:56:01	Loop Capital	Buy		main
+2017-10-31 10:54:24	Barclays	Equal-Weight	Overweight	down
+2017-12-01 12:47:52	SunTrust Robinson Humphrey	Hold	Buy	down
+2017-12-13 16:36:06	Morgan Stanley	Underweight		main
+2018-02-02 10:57:21	KeyBanc	Overweight	Overweight	main
+2018-09-24 10:52:16	Morgan Stanley	Underweight	Underweight	main
+2018-09-25 10:15:50	KeyBanc	Sector Weight	Overweight	down
+2018-10-23 13:40:07	Barclays	Equal-Weight	Equal-Weight	main
+2019-05-30 10:34:47	Morgan Stanley	Equal-Weight	Underweight	up
+2019-06-04 10:34:16	Mizuho	Neutral	Buy	down
+2019-06-04 11:20:24	MKM Partners	Neutral	Buy	down
+2019-11-15 11:20:53	Cowen & Co.	Market Perform	Outperform	down
+2020-03-06 12:13:00	Craig-Hallum	Buy	Hold	up
+2020-03-09 19:38:45	CFRA	Buy	Hold	up

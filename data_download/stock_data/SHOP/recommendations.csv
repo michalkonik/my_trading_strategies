@@ -1,0 +1,132 @@
+Date	Firm	To Grade	From Grade	Action
+2015-06-30 04:47:38	Credit Suisse	Outperform		init
+2015-06-30 06:53:27	Pacific Crest	Sector Weight		init
+2015-06-30 07:06:18	KeyBanc	Sector Weight		init
+2015-06-30 07:59:38	Canaccord Genuity	Hold		init
+2015-06-30 08:10:23	Morgan Stanley	Equal-Weight		init
+2015-06-30 09:12:07	Raymond James	Market Perform		init
+2015-11-05 07:52:49	RBC Capital	Outperform	Sector Perform	up
+2016-01-06 16:39:49	Baird	Outperform		init
+2016-01-19 06:12:28	Morgan Stanley	Overweight	Equal-Weight	up
+2016-01-20 16:33:54	Wedbush	Outperform		init
+2016-02-16 06:49:42	PiperJaffray	Overweight		init
+2016-02-18 04:27:03	Canaccord Genuity	Buy	Hold	up
+2016-02-18 11:37:02	Credit Suisse	Outperform		main
+2016-03-08 06:34:15	Pacific Crest	Overweight	Sector Weight	up
+2016-04-14 08:11:00	Paradigm Capital	Buy		init
+2016-04-14 16:01:01	Roth Capital	Buy		init
+2016-05-04 15:00:38	Roth Capital	Buy		main
+2016-05-05 08:12:20	Roth Capital	Buy		main
+2016-05-18 09:43:03	Macquarie	Outperform		init
+2016-05-26 08:00:25	Maxim Group	Hold		init
+2016-06-29 07:48:49	Monness Crespi Hardt	Buy		init
+2016-08-01 06:11:37	Citigroup	Neutral		init
+2016-08-04 12:41:54	Citigroup	Neutral		main
+2016-08-05 09:36:46	Citigroup	Neutral		main
+2016-08-12 08:02:48	Bank of America	Neutral		init
+2016-08-22 09:45:24	KeyBanc	Overweight		main
+2016-09-28 04:44:40	Morgan Stanley	Equal-Weight	Overweight	down
+2016-10-04 10:19:21	Goldman Sachs	Buy		init
+2017-04-26 13:10:19	RBC Capital	Sector Perform	Outperform	down
+2017-04-27 12:00:38	BTIG Research	Neutral	Buy	down
+2017-05-03 12:02:52	Bank of America	Underperform	Neutral	down
+2017-05-03 14:15:35	Eight Capital	Buy	Neutral	up
+2017-06-13 13:54:49	Goldman Sachs	Neutral	Buy	down
+2017-08-02 19:49:14	Barclays	Equal-Weight		main
+2017-10-27 12:35:12	Monness Crespi Hardt	Buy	Neutral	up
+2017-11-01 16:55:31	Barclays	Equal-Weight		main
+2018-01-30 14:43:25	Morgan Stanley	Equal-Weight	Equal-Weight	main
+2018-02-16 17:51:51	Canaccord Genuity	Buy	Buy	main
+2018-02-16 18:02:00	Morgan Stanley	Equal-Weight	Equal-Weight	main
+2018-02-16 18:06:57	KeyBanc	Overweight	Overweight	main
+2018-03-22 11:19:06	KeyBanc	Overweight	Overweight	main
+2018-05-02 12:30:22	Barclays	Equal-Weight	Equal-Weight	main
+2018-05-09 14:23:40	Canaccord Genuity	Buy	Buy	main
+2018-06-19 10:26:59	KeyBanc	Overweight	Overweight	main
+2018-07-23 11:55:31	Barclays	Equal-Weight	Equal-Weight	main
+2018-07-24 13:25:35	Roth Capital	Buy	Buy	main
+2018-08-01 12:13:31	Morgan Stanley	Equal-Weight	Equal-Weight	main
+2018-08-01 12:39:05	PiperJaffray	Neutral	Overweight	down
+2018-08-01 18:07:09	Barclays	Equal-Weight	Equal-Weight	main
+2018-12-21 13:20:22	DA Davidson	Buy	Neutral	up
+2019-02-11 13:57:48	Wedbush	Outperform	Outperform	main
+2019-02-13 11:24:40	RBC Capital	Outperform	Sector Perform	up
+2019-02-13 13:35:28	DA Davidson	Buy	Buy	main
+2019-02-13 13:56:48	Wells Fargo	Outperform	Outperform	main
+2019-02-13 14:28:13	KeyBanc	Overweight	Overweight	reit
+2019-02-13 14:51:26	Canaccord Genuity	Buy	Buy	main
+2019-02-13 15:47:00	Raymond James	Outperform		reit
+2019-02-13 15:59:19	Morgan Stanley	Equal-Weight	Equal-Weight	main
+2019-05-01 12:55:30	Barclays	Equal-Weight	Equal-Weight	main
+2019-05-01 13:17:29	KeyBanc	Overweight	Overweight	main
+2019-05-01 14:17:11	Canaccord Genuity	Buy	Buy	main
+2019-05-01 14:58:23	Wells Fargo	Outperform	Outperform	main
+2019-05-01 15:06:00	Wedbush	Outperform	Outperform	main
+2019-05-01 15:16:06	DA Davidson	Buy	Buy	main
+2019-05-13 11:47:41	Guggenheim	Neutral	Buy	down
+2019-05-14 10:55:26	Morgan Stanley	Underweight	Equal-Weight	down
+2019-06-06 11:41:04	KeyBanc	Overweight		main
+2019-06-20 10:49:55	CIBC	Neutral	Outperformer	down
+2019-06-20 13:11:55	Baird	Outperform		main
+2019-06-21 12:22:55	Barclays	Equal-Weight		main
+2019-06-24 12:09:41	DA Davidson	Buy		main
+2019-06-24 13:05:09	Roth Capital	Neutral	Buy	down
+2019-06-25 14:21:13	Wedbush	Neutral	Outperform	down
+2019-07-08 10:06:13	KeyBanc	Overweight		main
+2019-08-02 10:35:01	KeyBanc	Overweight		main
+2019-08-02 14:12:50	Bank of America	Underperform		reit
+2019-08-02 16:38:12	Raymond James	Outperform		reit
+2019-08-27 12:54:40	Rosenblatt	Buy		main
+2019-09-09 12:39:12	Baird	Outperform		main
+2019-10-30 13:43:09	Baird	Outperform		main
+2020-01-13 12:50:28	Credit Suisse	Outperform		main
+2020-01-21 11:05:38	KeyBanc	Overweight		main
+2020-01-22 15:57:11	Roth Capital	Neutral		main
+2020-02-12 19:04:01	Raymond James	Outperform		main
+2020-02-12 19:05:09	Canaccord Genuity	Buy		main
+2020-02-12 19:06:17	RBC Capital	Outperform		main
+2020-02-13 08:55:03	KeyBanc	Overweight		main
+2020-02-13 11:57:56	Credit Suisse	Neutral	Outperform	down
+2020-02-13 13:11:20	Wells Fargo	Overweight		main
+2020-02-13 13:15:48	Wedbush	Neutral		main
+2020-02-13 14:11:04	Baird	Outperform		main
+2020-02-13 14:13:48	Rosenblatt	Buy		reit
+2020-02-13 14:53:06	Canaccord Genuity	Buy		main
+2020-02-13 15:38:51	SunTrust Robinson Humphrey	Hold		main
+2020-03-23 09:52:33	KeyBanc	Overweight		main
+2020-03-31 10:31:55	Piper Sandler	Neutral		main
+2020-04-02 12:01:55	Raymond James	Outperform		main
+2020-04-02 12:06:45	Mizuho	Neutral		main
+2020-04-07 10:51:53	Raymond James	Market Perform	Outperform	down
+2020-04-08 17:32:07	Wells Fargo	Overweight		main
+2020-04-30 14:07:12	Canaccord Genuity	Hold	Buy	down
+2020-05-04 10:21:42	KeyBanc	Overweight		main
+2020-05-07 10:42:57	DA Davidson	Neutral	Buy	down
+2020-05-07 10:58:52	Mizuho	Neutral		main
+2020-05-07 13:58:58	Credit Suisse	Neutral		main
+2020-05-07 14:22:27	Wells Fargo	Equal-Weight	Overweight	down
+2020-05-07 14:46:50	RBC Capital	Outperform		main
+2020-05-07 15:03:17	Barclays	Equal-Weight		main
+2020-05-07 15:30:30	B of A Securities	Underperform		reit
+2020-05-07 16:13:13	Baird	Outperform		main
+2020-05-07 16:24:55	Rosenblatt	Buy		main
+2020-05-07 16:29:59	SunTrust Robinson Humphrey	Hold		main
+2020-05-21 14:18:48	Canaccord Genuity	Hold		main
+2020-06-02 08:50:42	KeyBanc	Overweight		main
+2020-06-15 08:46:18	Piper Sandler	Overweight	Neutral	up
+2020-06-24 08:54:17	KeyBanc	Overweight		main
+2020-07-02 13:34:22	Baird	Outperform		main
+2020-07-22 08:53:21	KeyBanc	Overweight		main
+2020-07-23 08:44:02	Piper Sandler	Overweight		main
+2020-07-23 12:22:40	Credit Suisse	Neutral		main
+2020-07-28 09:32:25	Goldman Sachs	Buy	Neutral	up
+2020-07-28 15:23:28	Jefferies	Hold		main
+2020-07-29 15:52:14	Piper Sandler	Overweight		main
+2020-07-30 08:48:49	KeyBanc	Overweight		main
+2020-07-30 11:31:39	RBC Capital	Outperform		main
+2020-07-30 11:46:54	Rosenblatt	Buy		main
+2020-07-30 12:04:17	Citigroup	Neutral		main
+2020-07-30 12:32:09	Wedbush	Neutral		main
+2020-07-30 14:40:25	Jefferies	Hold		main
+2020-07-30 14:59:19	Canaccord Genuity	Hold		main
+2020-07-30 15:12:23	SunTrust Robinson Humphrey	Hold		main

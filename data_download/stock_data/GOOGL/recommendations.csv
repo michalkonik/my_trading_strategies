@@ -1,0 +1,169 @@
+Date	Firm	To Grade	From Grade	Action
+2014-12-17 00:00:00	Pivotal Research	Buy		up
+2015-01-08 06:03:07	Stifel	Hold	Buy	down
+2015-01-14 09:00:00	Credit Suisse	Outperform		main
+2015-01-30 09:00:00	Citigroup	Buy		main
+2015-03-02 14:04:06	Bank of America	Buy	Neutral	up
+2015-03-06 08:07:11	Citigroup	Buy		main
+2015-04-21 09:00:00	SunTrust Robinson Humphrey	Buy		main
+2015-04-24 09:00:00	CRT Capital	Buy		main
+2015-07-13 08:40:26	Pivotal Research	Hold	Buy	down
+2015-07-16 06:18:29	BMO Capital	Outperform	Market Perform	up
+2015-07-17 05:55:55	MKM Partners	Buy		init
+2015-07-17 06:11:25	Mizuho	Neutral		main
+2015-07-17 06:17:03	Jefferies	Buy		main
+2015-07-17 06:23:09	JMP Securities	Market Perform		main
+2015-07-17 07:15:33	Bernstein	Outperform		main
+2015-08-12 06:18:29	Morgan Stanley	Overweight		up
+2015-08-26 04:02:02	Goldman Sachs	Buy	Neutral	up
+2015-09-21 06:26:34	JMP Securities	Market Outperform		main
+2015-10-09 04:35:07	Credit Suisse	Outperform		main
+2015-10-23 13:38:02	Macquarie	Outperform		main
+2016-01-12 04:22:48	Credit Suisse	Outperform		main
+2016-02-02 11:02:58	Barclays	Overweight		main
+2016-02-02 12:01:33	Stifel Nicolaus	Buy		main
+2016-02-02 14:03:23	Cantor Fitzgerald	Buy		main
+2016-02-02 14:06:34	KeyBanc	Overweight		main
+2016-02-02 14:11:18	Nomura	Buy		main
+2016-04-01 06:39:18	Citigroup	Neutral		main
+2016-04-07 04:40:41	Morgan Stanley	Overweight		main
+2016-04-11 05:59:41	Pivotal Research	Buy	Hold	up
+2016-04-18 05:57:46	Credit Suisse	Outperform		main
+2016-04-22 06:59:37	SunTrust Robinson Humphrey	Buy		main
+2016-04-22 07:02:08	Morgan Stanley	Overweight		main
+2016-04-22 07:49:23	Stifel Nicolaus	Buy		main
+2016-04-22 07:58:24	Oppenheimer	Outperform		main
+2016-04-22 08:01:25	Cantor Fitzgerald	Buy		main
+2016-04-22 08:13:57	JMP Securities	Market Outperform		main
+2016-04-22 08:14:34	Jefferies	Buy		main
+2016-04-22 08:54:13	Macquarie	Buy		main
+2016-04-22 09:14:05	Baird	Outperform		main
+2016-06-08 04:19:27	Maxim Group	Overweight		main
+2016-06-29 08:35:41	Goldman Sachs	Buy		main
+2016-07-29 04:16:43	Credit Suisse	Outperform		main
+2016-07-29 06:42:52	UBS	Buy		main
+2016-07-29 07:05:06	SunTrust Robinson Humphrey	Buy		main
+2016-07-29 07:16:30	JMP Securities	Market Outperform		main
+2016-07-29 07:21:43	Deutsche Bank	Buy		main
+2016-07-29 07:34:58	CLSA	Buy		main
+2016-07-29 07:40:20	Jefferies	Buy		main
+2016-07-29 10:43:12	Citigroup	Buy		main
+2016-09-27 16:14:09	Wedbush	Underperform	Neutral	down
+2016-10-17 08:14:18	Credit Suisse	Outperform		main
+2017-03-20 14:57:56	Pivotal Research	Hold	Buy	down
+2017-03-27 17:35:16	Nomura	Buy		main
+2017-04-04 14:11:52	BMO Capital	Market Perform	Outperform	down
+2017-06-15 13:03:25	Canaccord Genuity	Hold	Buy	down
+2017-07-25 15:23:18	Bank of America	Buy		main
+2017-07-25 15:50:05	JMP Securities	Market Outperform		main
+2017-07-25 18:26:53	Morgan Stanley	Overweight		main
+2017-09-27 15:10:17	Wells Fargo	Outperform		main
+2017-10-11 14:38:29	Credit Suisse	Outperform		main
+2017-10-27 12:11:16	Stifel Nicolaus	Buy		main
+2017-10-27 12:55:59	Citigroup	Buy		main
+2017-10-27 17:18:57	BMO Capital	Market Perform		main
+2017-10-27 18:14:48	Canaccord Genuity	Hold		main
+2017-10-30 17:43:31	Citigroup	Buy		main
+2018-01-26 19:42:41	Morgan Stanley	Overweight	Overweight	main
+2018-02-02 11:50:55	Stifel Nicolaus	Hold	Buy	down
+2018-02-02 14:09:31	Morgan Stanley	Outperform	Overweight	main
+2018-02-02 14:42:33	Bank of America	Buy	Buy	main
+2018-02-02 14:50:47	BMO Capital	Market Perform	Market Perform	main
+2018-02-02 15:05:36	Barclays	Overweight	Overweight	main
+2018-04-10 14:23:09	Morgan Stanley	Overweight	Overweight	main
+2018-04-20 12:34:16	Credit Suisse	Outperform	Outperform	main
+2018-04-23 13:18:32	Credit Suisse	Outperform	Outperform	main
+2018-04-24 10:08:38	KeyBanc	Overweight	Overweight	main
+2018-04-24 11:11:34	Stifel Nicolaus	Hold	Hold	main
+2018-04-24 12:12:00	Canaccord Genuity	Hold	Hold	main
+2018-04-24 12:59:17	Morgan Stanley	Overweight	Overweight	main
+2018-04-24 15:55:47	Barclays	Overweight	Overweight	main
+2018-04-25 11:08:52	Stifel Nicolaus	Buy	Hold	up
+2018-05-05 13:32:14	Argus	Buy		main
+2018-05-05 14:00:37	B. Riley FBR	Buy		main
+2018-06-28 16:14:28	Morgan Stanley	Overweight	Overweight	main
+2018-07-13 16:34:32	Barclays	Overweight	Overweight	main
+2018-07-16 12:53:54	Credit Suisse	Outperform	Outperform	main
+2018-07-24 11:29:25	KeyBanc	Overweight	Overweight	main
+2018-07-24 11:35:24	Stifel Nicolaus	Buy	Buy	main
+2018-07-24 11:42:50	JMP Securities	Market Outperform	Market Outperform	main
+2018-07-24 11:44:40	Canaccord Genuity	Hold	Hold	main
+2018-07-24 11:48:04	Citigroup	Buy	Buy	main
+2018-07-24 11:57:18	Barclays	Overweight	Overweight	main
+2018-07-24 12:03:29	Morgan Stanley	Overweight	Overweight	main
+2018-07-24 12:13:35	B. Riley FBR	Buy	Buy	main
+2018-07-24 13:24:39	BMO Capital	Market Perform	Market Perform	main
+2018-07-24 13:49:53	Credit Suisse	Outperform	Outperform	main
+2018-07-24 14:56:59	Bank of America	Buy	Buy	main
+2018-08-29 11:17:27	Morgan Stanley	Overweight	Overweight	main
+2018-10-26 13:52:18	Canaccord Genuity	Hold	Hold	main
+2018-10-26 13:58:38	Barclays	Overweight	Overweight	main
+2018-10-26 14:26:55	Bank of America	Buy	Buy	main
+2018-11-02 14:29:46	JMP Securities	Market Outperform	Market Outperform	main
+2018-11-14 12:44:20	Morgan Stanley	Overweight	Overweight	main
+2019-01-03 14:43:34	Canaccord Genuity	Buy	Hold	up
+2019-01-07 11:56:56	Pivotal Research	Buy	Hold	up
+2019-02-05 12:29:46	Barclays	Overweight	Overweight	main
+2019-02-05 12:32:53	Nomura	Buy	Buy	main
+2019-02-05 12:51:10	BMO Capital	Market Perform	Market Perform	main
+2019-02-05 13:05:42	Citigroup	Buy	Buy	main
+2019-04-25 14:47:45	BMO Capital	Market Perform	Market Perform	main
+2019-04-30 10:31:55	Stifel Nicolaus	Hold	Buy	down
+2019-04-30 11:59:37	Morgan Stanley	Overweight	Overweight	main
+2019-04-30 12:02:29	Nomura	Buy	Buy	main
+2019-05-01 10:20:54	DZ Bank	Hold	Buy	down
+2019-07-15 12:37:23	Morgan Stanley	Overweight		main
+2019-07-26 10:07:53	KeyBanc	Overweight		main
+2019-07-26 11:04:48	Nomura	Buy		main
+2019-07-26 11:09:41	Citigroup	Buy		main
+2019-07-26 11:46:09	Canaccord Genuity	Buy		main
+2019-07-26 11:49:01	Morgan Stanley	Overweight		main
+2019-07-26 12:05:14	Mizuho	Buy		main
+2019-07-26 12:58:19	Credit Suisse	Outperform		main
+2019-07-26 13:01:05	Wedbush	Outperform		main
+2019-07-26 13:05:28	Stifel Nicolaus	Hold		main
+2019-10-25 12:32:52	BMO Capital	Market Perform		main
+2019-10-29 10:05:36	KeyBanc	Overweight		main
+2019-10-29 14:22:54	Canaccord Genuity	Buy		main
+2019-10-29 14:29:56	Barclays	Overweight		main
+2019-10-29 14:41:34	BMO Capital	Market Perform		main
+2019-12-05 12:23:10	Stifel Nicolaus	Buy	Hold	up
+2020-01-13 14:51:34	Evercore ISI Group	Outperform		main
+2020-01-17 13:03:25	UBS	Buy		main
+2020-01-21 13:22:19	Morgan Stanley	Overweight		main
+2020-01-24 11:10:39	KeyBanc	Overweight		main
+2020-01-27 12:21:04	Mizuho Securities	Buy		main
+2020-02-04 11:18:55	Pivotal Research	Buy		main
+2020-02-04 11:23:30	Nomura	Buy		main
+2020-02-04 11:42:23	Needham	Buy		main
+2020-02-05 12:46:15	Argus Research	Buy		main
+2020-02-07 16:02:23	Citigroup	Buy		main
+2020-02-25 14:34:30	Morgan Stanley	Overweight		main
+2020-03-26 16:39:56	SunTrust Robinson Humphrey	Buy		main
+2020-03-30 11:00:37	BMO Capital	Outperform	Market Perform	up
+2020-03-30 13:28:01	UBS	Buy		main
+2020-03-30 18:48:03	Morgan Stanley	Overweight		main
+2020-04-17 15:27:46	Mizuho	Buy		main
+2020-04-22 15:11:03	Wedbush	Outperform		main
+2020-04-29 10:44:34	JP Morgan	Overweight		main
+2020-04-29 10:53:28	Nomura Instinet	Buy		main
+2020-04-29 10:58:22	Credit Suisse	Outperform		main
+2020-04-29 11:42:40	Morgan Stanley	Overweight		main
+2020-04-29 12:14:14	MKM Partners	Buy		reit
+2020-04-29 13:27:39	RBC Capital	Outperform		main
+2020-04-29 13:28:47	Stifel	Buy		main
+2020-04-29 14:48:03	BMO Capital	Outperform		main
+2020-04-29 14:56:20	Barclays	Overweight		main
+2020-04-29 15:58:38	Mizuho	Buy		main
+2020-04-29 16:22:13	B of A Securities	Buy		main
+2020-04-29 16:28:01	SunTrust Robinson Humphrey	Buy		main
+2020-05-12 16:12:22	Citigroup	Buy		main
+2020-06-24 15:12:55	Goldman Sachs	Buy		main
+2020-07-09 12:26:54	Morgan Stanley	Overweight		main
+2020-07-13 10:45:32	Mizuho	Buy		main
+2020-07-20 12:30:59	Credit Suisse	Outperform		main
+2020-07-21 11:19:39	Mizuho	Buy		main
+2020-07-31 11:43:14	Morgan Stanley	Overweight		main
+2020-07-31 14:09:48	Canaccord Genuity	Buy		main
+2020-08-03 15:55:20	JMP Securities	Outperform		main
+2020-09-24 11:36:02	Morgan Stanley	Overweight		main

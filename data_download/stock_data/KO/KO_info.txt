@@ -1,0 +1,3 @@
+zip >>> 30301
+sector >>> Consumer Defensive
+fullTimeEmployees >>> 86200

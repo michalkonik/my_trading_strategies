@@ -1,0 +1,190 @@
+Date	Firm	To Grade	From Grade	Action
+2012-03-14 06:08:00	JP Morgan	Neutral		down
+2012-03-19 06:11:00	Morgan Stanley	Equal-Weight		main
+2012-03-27 07:24:00	Bank oferica	Buy		main
+2012-03-30 06:35:00	Deutsche Bank	Buy		main
+2012-04-02 12:50:00	UBS	Buy		main
+2012-04-10 07:25:00	JP Morgan	Neutral		main
+2012-04-17 06:13:00	Morgan Stanley	Equal-Weight		main
+2012-04-18 06:59:00	Meredith Whitney Advisory Group	Hold		up
+2012-05-21 07:48:00	JMP Securities	Underperform		down
+2012-05-22 08:25:00	Sterne Agee	Buy		main
+2012-06-04 10:35:00	UBS	Buy		main
+2012-07-17 06:02:00	Morgan Stanley	Equal-Weight		main
+2012-09-20 10:59:00	UBS	Neutral	Buy	down
+2012-10-01 05:47:00	Sterne Agee	Neutral	Buy	down
+2012-10-01 09:12:00	Guggenheim	Buy		init
+2012-10-02 05:52:00	Keefe Bruyette & Woods	Outperform	Market Perform	up
+2012-10-02 08:07:00	Drexel Hamilton	Buy		init
+2012-10-16 06:00:00	Keefe Bruyette & Woods	Outperform		main
+2012-10-16 06:56:00	Sterne Agee	Neutral		main
+2012-10-16 07:37:00	ISI Group	Buy		main
+2012-10-17 11:50:00	UBS	Neutral		main
+2012-12-07 11:15:12	SunTrust Robinson Humphrey	Buy		init
+2012-12-19 07:11:12	Morgan Stanley	Overweight	Equal-Weight	up
+2013-01-03 06:52:47	Sterne Agee	Buy	Neutral	up
+2013-01-03 08:45:50	Nomura	Buy		main
+2013-01-04 08:37:02	Goldman Sachs	Conviction Buy	Buy	up
+2013-01-04 09:13:40	Deutsche Bank	Buy		main
+2013-01-08 10:41:56	JP Morgan	Neutral		main
+2013-01-09 06:47:44	Credit Suisse	Outperform		main
+2013-01-10 09:27:23	UBS	Neutral		main
+2013-01-17 14:44:25	Credit Agricole	Buy	Outperform	up
+2013-03-11 08:21:01	ISI Group	Buy		main
+2013-03-11 08:26:07	UBS	Buy	Neutral	up
+2013-03-11 10:06:10	UBS	Buy	Neutral	up
+2013-03-19 08:29:18	Deutsche Bank	Buy		main
+2013-04-09 08:05:19	JP Morgan	Neutral		main
+2013-04-16 07:53:19	Nomura	Buy		main
+2013-04-16 08:01:53	Credit Suisse	Outperform		main
+2013-06-07 08:11:25	Macquarie	Outperform		init
+2013-07-10 09:45:00	JP Morgan	Neutral		main
+2013-09-19 12:08:29	Societe Generale	Buy		init
+2013-10-01 07:27:37	Credit Suisse	Outperform		main
+2013-11-07 10:11:19	Bank of America	Buy		main
+2013-11-19 10:05:06	Leerink Swann	Outperform		init
+2013-12-04 06:31:27	Goldman Sachs	Neutral	Buy	down
+2013-12-05 16:00:00	Deutsche Bank	Hold	Buy	down
+2013-12-12 06:36:59	Bank of America	Buy		main
+2013-12-16 06:59:34	Evercore Partners	Overweight	Equal-weight	up
+2014-01-08 08:30:00	Jefferies	Hold		init
+2014-01-09 07:18:27	Nomura	Buy		init
+2014-01-24 08:00:00	Atlantic Equities	Neutral	Overweight	down
+2014-01-29 08:00:00	Rafferty Capital	Sell	Buy	down
+2014-03-18 20:36:55	Jefferies	Hold		main
+2014-03-27 06:33:25	Keefe, Bruyette & Woods	Market Perform	Outperform	down
+2014-03-27 07:17:59	Bernstein	Market Perform	Outperform	down
+2014-03-28 06:56:37	Societe Generale	Hold	Buy	down
+2014-04-07 08:00:00	HSBC	Neutral	Underweight	up
+2014-04-14 08:45:52	Rafferty	Hold	Sell	up
+2014-04-15 07:17:44	Bernstein	Outperform	Market Perform	up
+2014-04-15 20:52:23	Oppenheimer	Outperform		main
+2014-04-24 02:23:03	Deutsche Bank	Hold		main
+2014-04-25 02:54:44	SunTrust Robinson Humphrey	Buy		main
+2014-05-21 06:45:19	MKM Partners	Buy		init
+2014-09-04 09:00:00	JP Morgan	Neutral		main
+2014-10-07 09:00:00	Oppenheimer	Outperform		main
+2014-10-15 16:00:00	Keefe Bruyette & Woods	Market Perform		main
+2014-10-16 08:18:38	Argus Capital	Hold	Sell	up
+2015-01-05 09:00:00	Barclays	Overweight		main
+2015-01-08 09:00:00	JP Morgan	Neutral		main
+2015-01-16 09:00:00	Jefferies	Hold		main
+2015-02-10 06:16:17	Deutsche Bank	Buy	Hold	up
+2015-03-03 05:58:19	JP Morgan	Overweight	Neutral	up
+2015-03-06 05:17:24	Keefe Bruyette & Woods	Outperform	Market Perform	up
+2015-03-06 11:17:05	Portales Partners	Underperform		down
+2015-03-13 09:00:00	Oppenheimer	Outperform		main
+2015-04-01 09:00:00	JP Morgan	Overweight		main
+2015-04-17 09:00:00	Keefe Bruyette & Woods	Outperform		main
+2015-04-20 09:00:00	BMO Capital	Outperform		main
+2015-06-01 05:26:36	Goldman Sachs	Buy	Neutral	up
+2015-06-10 08:40:32	Leerink Swann	Buy		main
+2015-06-11 09:00:00	MKM Partners	Buy		main
+2015-06-18 05:55:25	Sterne Agee CRT	Neutral	Buy	down
+2015-06-24 04:39:59	Deutsche Bank	Neutral	Buy	down
+2015-08-28 07:35:29	Guggenheim	Buy	Neutral	up
+2015-09-09 09:31:58	Oppenheimer	Outperform		main
+2015-09-21 08:13:16	iBERIA Capital Partners	Underperform		down
+2015-09-28 04:06:09	Credit Suisse	Outperform	Neutral	up
+2015-09-28 05:52:59	Jefferies	Buy	Hold	up
+2015-10-06 09:50:39	Oppenheimer	Outperform		main
+2015-10-19 11:02:39	Macquarie	Outperform		main
+2015-10-26 11:12:48	Morgan Stanley	Equal-Weight	Overweight	down
+2016-01-11 10:52:34	Nomura	Buy		main
+2016-01-19 05:37:28	Keefe Bruyette & Woods	Outperform		main
+2016-01-19 10:54:33	BMO Capital	Outperform		main
+2016-01-19 12:49:32	Barclays	Overweight		main
+2016-01-26 12:00:41	Deutsche Bank	Hold		main
+2016-01-29 08:42:16	Oppenheimer	Outperform		main
+2016-03-01 07:26:42	Atlantic Equities	Neutral	Overweight	down
+2016-03-14 03:50:53	Barclays	Overweight		main
+2016-04-07 12:46:08	JP Morgan	Overweight		main
+2016-04-18 03:46:14	Keefe Bruyette & Woods	Market Perform	Outperform	down
+2016-07-08 08:50:48	Wells Fargo	Market Perform	Outperform	down
+2016-07-13 07:16:01	Berenberg	Buy		init
+2016-09-07 07:18:47	Nomura	Buy		main
+2016-09-16 07:01:48	Goldman Sachs	Neutral	Buy	down
+2016-09-23 09:36:39	CLSA	Buy		main
+2016-10-10 16:00:13	Jefferies	Buy		main
+2016-11-14 10:53:54	Morgan Stanley	Overweight	Equal-Weight	up
+2016-11-18 13:10:24	Macquarie	Neutral	Outperform	down
+2016-11-28 10:41:51	Jefferies	Hold	Buy	down
+2016-11-30 19:34:39	Deutsche Bank	Hold		main
+2016-12-21 16:12:25	Atlantic Equities	Overweight	Neutral	up
+2017-01-10 17:07:03	Standpoint Research	Hold	Buy	down
+2017-01-11 13:42:09	UBS	Sell		down
+2017-03-03 15:28:02	Evercore ISI Group	In-Line	Buy	down
+2017-04-05 13:02:47	Keefe Bruyette & Woods	Outperform	Market Perform	up
+2017-06-09 10:05:56	UBS	Neutral	Sell	up
+2017-07-11 10:33:02	Oppenheimer	Outperform		main
+2017-07-17 14:32:30	Nomura	Buy		main
+2017-07-17 16:34:04	Credit Suisse	Outperform		main
+2017-07-31 12:47:14	BMO Capital	Market Perform	Outperform	down
+2017-09-12 13:03:02	Societe Generale	Hold	Sell	up
+2017-10-09 11:54:48	Stifel Nicolaus	Hold	Buy	down
+2017-10-11 12:31:35	Bank of America	Neutral	Buy	down
+2017-10-13 12:25:58	BMO Capital	Market Perform		main
+2017-10-13 14:01:53	Nomura	Buy		main
+2017-10-13 15:48:06	Morgan Stanley	Overweight		main
+2017-10-16 10:15:58	Societe Generale	Sell	Hold	down
+2018-01-17 12:09:00	Keefe Bruyette & Woods	Market Perform	Outperform	down
+2018-01-17 20:41:08	Vertical Group	Hold	Buy	down
+2018-02-02 14:19:57	Morgan Stanley	Overweight	Overweight	main
+2018-02-07 12:40:12	DZ Bank	Buy	Hold	up
+2018-03-15 11:54:02	Morgan Stanley	Overweight	Overweight	main
+2018-04-05 11:56:01	UBS	Buy	Neutral	up
+2018-04-11 12:17:11	HSBC	Buy	Hold	up
+2018-04-30 13:20:54	Morgan Stanley	Overweight	Overweight	main
+2018-06-20 10:34:28	Deutsche Bank	Buy	Hold	up
+2018-07-16 11:26:57	Morgan Stanley	Overweight	Overweight	main
+2018-07-16 11:52:31	Oppenheimer	Outperformer	Outperform	main
+2018-07-16 12:12:36	BMO Capital	Market Perform	Market Perform	main
+2018-09-27 11:27:31	Deutsche Bank	Buy	Buy	main
+2018-12-07 15:37:17	Credit Suisse	Outperform	Outperform	main
+2018-12-26 13:10:43	Standpoint Research	Buy	Hold	up
+2019-01-08 15:17:58	Morgan Stanley	Overweight	Overweight	main
+2019-01-15 11:34:59	BMO Capital	Outperform	Market Perform	up
+2019-01-16 14:23:22	Standpoint Research	Hold	Buy	down
+2019-02-22 11:36:54	Jefferies	Buy	Hold	up
+2019-03-26 12:42:54	Oppenheimer	Outperform	Outperform	main
+2019-04-16 12:35:49	UBS	Buy	Buy	main
+2019-04-16 13:14:55	BMO Capital	Outperform	Outperform	main
+2019-04-16 13:43:22	Morgan Stanley	Overweight	Overweight	main
+2019-05-30 10:29:20	Goldman Sachs	Buy	Neutral	up
+2019-07-09 11:37:00	JP Morgan	Overweight		main
+2019-07-26 10:38:17	Keefe Bruyette & Woods	Outperform	Market Perform	up
+2019-10-03 13:18:29	UBS	Buy		main
+2019-10-10 14:08:16	JP Morgan	Overweight		main
+2019-11-04 13:10:35	JP Morgan	Overweight		main
+2019-11-07 12:43:20	Bank of America	Buy		reit
+2019-11-18 13:20:20	Morgan Stanley	Overweight		main
+2019-11-26 13:21:20	Credit Suisse	Outperform		main
+2020-01-06 11:26:43	Goldman Sachs	Buy		main
+2020-01-06 12:39:30	Deutsche Bank	Hold	Buy	down
+2020-01-15 13:01:34	Morgan Stanley	Overweight		main
+2020-01-15 13:14:16	B of A Securities	Buy		reit
+2020-01-15 13:21:56	Wells Fargo	Overweight		main
+2020-01-15 13:29:36	DA Davidson	Buy		main
+2020-01-15 14:15:51	BMO Capital	Outperform		main
+2020-01-15 14:17:16	Oppenheimer	Outperform		main
+2020-01-17 15:04:09	Credit Suisse	Outperform		main
+2020-02-03 14:46:52	Odeon Capital	Hold	Buy	down
+2020-03-02 16:06:59	Morgan Stanley	Overweight		main
+2020-03-02 21:54:20	CFRA	Buy	Hold	up
+2020-03-09 13:34:05	Morgan Stanley	Overweight		main
+2020-03-27 18:58:17	Piper Sandler	Overweight		main
+2020-03-27 19:08:05	Morgan Stanley	Overweight		main
+2020-04-01 13:09:56	Oppenheimer	Outperform		main
+2020-04-02 08:29:13	Wells Fargo	Overweight		main
+2020-04-02 13:59:37	Deutsche Bank	Hold		main
+2020-04-03 18:06:02	Piper Sandler	Overweight		main
+2020-04-06 15:58:19	UBS	Buy		main
+2020-04-06 16:11:15	Wells Fargo	Overweight		main
+2020-04-16 12:16:48	Oppenheimer	Outperform		main
+2020-04-16 12:18:05	Morgan Stanley	Overweight		main
+2020-04-16 15:27:56	BMO Capital	Outperform		main
+2020-04-20 12:35:14	Argus Research	Buy	Hold	up
+2020-05-04 14:05:32	UBS	Buy		main
+2020-06-25 12:53:17	Morgan Stanley	Overweight		main
+2020-09-15 11:38:00	Morgan Stanley	Overweight		main
+2020-09-15 16:04:05	Wells Fargo	Overweight		main

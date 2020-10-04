@@ -1,0 +1,63 @@
+Date	Firm	To Grade	From Grade	Action
+2012-04-11 06:25:00	Deutsche Bank	Buy		main
+2012-07-18 06:09:00	Deutsche Bank	Buy		main
+2012-08-02 11:56:00	UBS	Buy		init
+2012-09-19 06:38:00	Citigroup	Neutral		main
+2012-09-24 08:19:00	JP Morgan	Neutral	Overweight	down
+2012-10-12 06:20:00	Imperial Capital	Outperform		init
+2012-10-24 16:28:00	Bank of America	Buy		main
+2013-01-08 07:18:06	JP Morgan	Underweight	Neutral	down
+2013-02-04 12:07:32	UBS	Neutral		main
+2013-03-14 07:50:45	Deutsche Bank	Buy		main
+2013-03-14 09:05:16	Bank of America	Buy		main
+2013-03-14 13:19:31	Imperial Capital	Outperform		main
+2013-04-26 08:27:23	Citigroup	Sell		down
+2013-07-24 06:24:52	JP Morgan	Neutral	Underweight	up
+2013-08-26 07:48:33	RBC Capital	Outperform		init
+2013-11-12 07:28:40	Citigroup	Neutral	Sell	up
+2014-03-04 08:00:00	HSBC	Neutral	Overweight	down
+2014-05-01 01:19:46	JP Morgan	Neutral		main
+2014-06-23 20:24:14	Deutsche Bank	Buy		main
+2014-11-03 18:25:50	RBC Capital	Sector Perform	Outperform	down
+2014-11-10 09:00:00	Bank of America	Buy		main
+2015-01-05 09:00:00	Deutsche Bank	Buy		main
+2015-01-15 06:47:36	Credit Suisse	Neutral	Underperform	up
+2015-01-16 07:19:40	Itau BBA	Outperform		up
+2015-01-16 09:00:00	Deutsche Bank	Buy		main
+2015-03-05 09:00:00	UBS	Neutral		main
+2015-03-09 09:00:00	Deutsche Bank	Buy		main
+2015-06-18 06:41:36	Cowen & Co.	Outperform	Neutral	up
+2015-06-29 09:00:00	UBS	Neutral		main
+2016-03-03 09:35:02	Scotiabank	Sector Perform	Outperform	down
+2016-03-04 05:50:15	Cowen & Co.	Market Perform	Outperform	down
+2016-03-04 08:11:53	Santander	Hold	Buy	down
+2016-03-10 09:38:18	Bank of America		Buy	down
+2016-03-13 18:37:14	Citigroup	Buy		main
+2016-05-02 06:48:14	Goldman Sachs	Neutral		main
+2016-06-13 12:24:26	Deutsche Bank	Buy		main
+2016-08-01 04:23:23	HSBC	Hold	Buy	down
+2016-10-06 10:38:00	JP Morgan	Overweight		init
+2016-10-13 13:40:00	Goldman Sachs	Buy	Neutral	up
+2016-10-18 10:09:58	Cowen & Co.	Outperform	Market Perform	up
+2016-11-01 11:25:58	Drexel Hamilton	Buy	Hold	up
+2016-11-22 14:06:32	UBS	Sell	Neutral	down
+2017-08-10 13:00:53	Goldman Sachs	Sell	Buy	down
+2017-10-17 17:07:33	Deutsche Bank	Hold	Buy	down
+2017-10-17 20:26:21	Scotiabank	Sector Perform	Sector Outperform	down
+2017-10-26 15:51:30	Credit Suisse	Outperform	Neutral	up
+2017-10-30 13:42:01	Santander	Underperform	Hold	down
+2018-03-09 13:16:44	Credit Suisse	Outperform	Outperform	main
+2018-07-09 11:48:32	Bank of America	Buy	Buy	main
+2018-08-14 12:50:53	Credit Suisse	Outperform	Outperform	main
+2018-08-16 11:26:11	Morgan Stanley	Overweight	Equal-Weight	up
+2018-09-26 12:55:43	Bradesco	Outperform	Neutral	up
+2018-12-18 13:43:11	Credit Suisse	Outperform	Outperform	main
+2019-01-17 13:20:33	Morgan Stanley	Equal-Weight	Overweight	down
+2019-01-22 12:50:39	Credit Suisse	Neutral	Outperform	down
+2019-09-12 10:38:49	UBS	Buy	Neutral	up
+2019-11-14 12:28:16	UBS	Buy		main
+2020-01-15 11:59:34	UBS	Neutral	Buy	down
+2020-04-03 12:52:01	Credit Suisse	Neutral		main
+2020-04-17 16:06:25	UBS	Neutral		main
+2020-04-28 13:16:39	Credit Suisse	Underperform	Neutral	down
+2020-08-06 13:04:27	Credit Suisse	Underperform		main

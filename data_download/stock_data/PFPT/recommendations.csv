@@ -1,0 +1,103 @@
+Date	Firm	To Grade	From Grade	Action
+2012-08-08 06:03:00	Deutsche Bank	Buy		main
+2013-07-10 06:30:07	Wedbush	Neutral		init
+2013-08-14 09:23:37	Imperial Capital	Outperform		init
+2013-08-14 09:28:47	Imperial Capital	Outperform		init
+2013-10-02 08:00:04	Deutsche Bank	Buy		main
+2013-12-12 16:00:00	FBR Capital	Outperform		init
+2013-12-20 16:00:00	JMP Securities	Market Outperform		init
+2014-01-15 06:43:13	Stifel Nicolaus	Buy		init
+2014-01-16 16:00:00	William Blair	Outperform		init
+2014-01-21 08:00:00	Wedbush	Outperform	Neutral	up
+2014-01-31 07:43:53	Stifel Nicolaus	Buy		main
+2014-01-31 08:00:00	Stifel Nicolaus	Buy		main
+2014-01-31 11:55:03	Imperial Capital	Outperform		main
+2014-04-04 08:00:00	Citigroup	Buy		init
+2014-06-02 08:57:58	Sterne Agee	Buy	Neutral	up
+2014-07-02 14:18:03	Imperial Capital	In-Line	Outperform	down
+2014-07-16 07:39:42	Goldman Sachs	Buy		init
+2014-07-25 21:21:16	Citigroup	Buy		main
+2014-08-08 06:49:44	Wells Fargo	Outperform		init
+2014-10-24 09:00:00	Credit Suisse	Outperform		main
+2014-12-04 00:00:00	Nomura	Buy		init
+2015-01-13 00:00:00	Summit Research Partners	Buy		init
+2015-01-26 09:00:00	JMP Securities	Market Outperform		main
+2015-01-30 09:00:00	Citigroup	Buy		main
+2015-03-06 05:51:15	PiperJaffray	Overweight		init
+2015-03-17 09:00:00	Pacific Crest	Outperform		main
+2015-04-22 09:00:00	Deutsche Bank	Buy		main
+2015-06-02 06:43:48	Guggenheim	Buy		init
+2015-06-05 09:00:00	JMP Securities	Market Outperform		main
+2015-06-09 08:06:37	Wunderlich	Buy		init
+2015-06-25 16:24:30	Wedbush	Outperform		init
+2015-07-24 04:19:39	Wunderlich	Buy		main
+2015-09-10 03:18:01	Morgan Stanley	Overweight		init
+2015-09-10 17:04:44	BTIG Research	Buy		init
+2015-11-05 13:30:29	Macquarie	Outperform		main
+2015-11-10 05:27:48	Dougherty	Buy		init
+2016-01-21 11:12:24	JMP Securities	Market Outperform		main
+2016-01-29 08:06:07	Credit Suisse	Outperform		main
+2016-02-01 05:44:47	Imperial Capital	Outperform	In-Line	up
+2016-03-21 04:06:12	Goldman Sachs	Neutral		init
+2016-04-25 04:20:32	Imperial Capital	Outperform		main
+2016-06-29 04:56:28	Evercore ISI Group	Buy		init
+2016-07-19 13:18:35	Citigroup	Buy		main
+2016-07-22 06:17:57	Wunderlich	Buy		main
+2016-07-22 07:17:13	Pacific Crest	Sector Weight	Overweight	down
+2016-08-01 16:22:55	Needham	Buy		init
+2016-10-03 20:59:39	DA Davidson	Neutral		init
+2017-03-23 13:31:47	Goldman Sachs	Sell	Neutral	down
+2017-04-19 14:19:34	DA Davidson	Buy	Neutral	up
+2017-04-20 12:33:24	Baird	Neutral	Outperform	down
+2017-07-20 14:45:33	Morgan Stanley	Overweight		main
+2017-09-08 15:17:23	Deutsche Bank	Buy		main
+2017-10-20 18:53:56	Baird	Neutral		main
+2018-01-26 21:36:24	JMP Securities	Market Outperform	Market Outperform	main
+2018-01-30 14:40:53	Morgan Stanley	Overweight	Overweight	main
+2018-02-07 15:05:01	Stifel Nicolaus	Buy	Buy	main
+2018-02-07 17:07:19	Baird	Neutral	Neutral	main
+2018-02-08 11:19:25	Imperial Capital	Outperform	Outperform	main
+2018-03-05 12:45:10	BTIG Research	Buy	Buy	main
+2018-03-16 13:12:52	Deutsche Bank	Buy	Buy	main
+2018-03-22 15:19:48	Morgan Stanley	Overweight	Overweight	main
+2018-04-10 13:44:55	Goldman Sachs	Neutral	Sell	up
+2018-04-16 12:48:36	Citigroup	Buy	Buy	main
+2018-04-27 12:33:49	JMP Securities	Market Outperform	Market Outperform	main
+2018-04-27 14:50:42	Wedbush	Outperform	Outperform	main
+2018-04-27 18:11:27	Imperial Capital	Outperform	Outperform	main
+2018-04-30 12:23:34	Citigroup	Buy	Buy	main
+2018-07-27 13:20:25	Stifel Nicolaus	Buy	Buy	main
+2018-07-27 15:52:17	Morgan Stanley	Overweight	Overweight	main
+2018-10-26 10:25:47	Deutsche Bank	Hold	Buy	down
+2018-10-26 14:20:24	Wells Fargo	Outperform	Outperform	main
+2018-10-29 09:55:23	KeyBanc	Overweight	Sector Weight	up
+2018-10-29 10:42:34	Goldman Sachs	Buy	Neutral	up
+2018-10-29 16:07:38	Morgan Stanley	Overweight	Overweight	main
+2019-01-08 12:48:02	Wedbush	Outperform	Outperform	main
+2019-02-25 15:38:57	KeyBanc	Overweight	Overweight	main
+2019-03-12 13:58:54	Morgan Stanley	Overweight	Overweight	main
+2019-04-12 13:59:58	Wedbush	Outperform	Outperform	main
+2019-04-25 13:20:41	Deutsche Bank	Hold	Hold	main
+2019-04-26 13:59:02	KeyBanc	Overweight	Overweight	main
+2019-04-26 14:31:33	Wells Fargo	Outperform	Outperform	main
+2019-07-26 12:00:29	Mizuho	Neutral		main
+2019-07-26 12:02:00	Morgan Stanley	Overweight		main
+2019-07-26 12:45:02	Piper Jaffray	Overweight		main
+2019-07-26 13:03:33	Wedbush	Outperform		main
+2019-07-26 13:11:10	Stifel Nicolaus	Buy		main
+2019-07-26 14:32:30	Needham	Buy		main
+2019-09-05 10:55:51	Deutsche Bank	Buy	Hold	up
+2019-10-25 12:20:23	Morgan Stanley	Overweight		main
+2019-10-28 12:01:19	Wells Fargo	Outperform		main
+2020-01-13 11:43:35	Morgan Stanley	Equal-Weight	Overweight	down
+2020-01-22 14:04:50	RBC Capital	Outperform		main
+2020-01-31 12:40:15	Citigroup	Buy		main
+2020-01-31 16:05:48	Morgan Stanley	Equal-Weight		main
+2020-03-04 10:57:43	First Analysis	Strong Buy	Outperform	up
+2020-03-27 18:59:35	Morgan Stanley	Equal-Weight		main
+2020-04-14 15:26:17	Northland Capital Markets	Outperform		main
+2020-04-21 13:14:35	Cowen & Co.	Outperform		main
+2020-05-08 12:07:39	Citigroup	Buy		main
+2020-05-13 15:54:57	Morgan Stanley	Equal-Weight		main
+2020-07-31 12:58:00	Morgan Stanley	Equal-Weight		main
+2020-08-19 10:14:37	Morgan Stanley	Overweight	Equal-Weight	up

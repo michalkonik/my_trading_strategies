@@ -1,0 +1,24 @@
+Date	Firm	To Grade	From Grade	Action
+2019-01-07	Bank of America	Buy		init
+2019-01-07	KeyBanc	Overweight		init
+2019-01-17	JP Morgan	Overweight		init
+2019-01-18	HSBC	Buy		init
+2019-02-12	Macquarie	Outperform		init
+2019-03-05	Bank of America	Buy	Buy	reit
+2019-03-20	Credit Suisse	Neutral	Outperform	down
+2019-05-13	China Renaissance	Hold		init
+2019-06-04	Loop Capital	Buy		init
+2019-07-30	Oppenheimer	Outperform		init
+2019-08-05	Jefferies	Buy		init
+2019-08-13	Bank of America	Buy		reit
+2019-10-02	KeyBanc	Overweight		main
+2019-10-08	China Renaissance	Buy	Hold	up
+2019-10-18	New Street	Buy		init
+2020-02-18	KeyBanc	Sector Weight	Overweight	down
+2020-02-18	CCB International	Neutral	Outperform	down
+2020-02-18	BOCOM International	Sell	Neutral	down
+2020-02-19	Oppenheimer	Perform	Outperform	down
+2020-03-12	Morgan Stanley	Overweight	Equal-Weight	up
+2020-03-18	UBS	Neutral		main
+2020-07-27	B of A Securities	Buy		main
+2020-09-24	Needham	Buy		init

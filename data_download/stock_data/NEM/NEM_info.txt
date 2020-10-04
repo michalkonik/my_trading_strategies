@@ -1,0 +1,11 @@
+zip >>> 80111
+sector >>> Basic Materials
+fullTimeEmployees >>> 16600
+longBusinessSummary >>> Newmont Corporation engages in the production and exploration of gold, copper, silver, zinc, and lead. The company has operations and/or assets in the United States, Canada, Mexico, Dominican Republic, Peru, Suriname, Argentina, Chile, Australia, and Ghana. As of December 31, 2019, it had proven and probable gold reserves of 100.2 million ounces and land position of 68,300 square kilometers. The company has a strategic alliance agreement with Kirkland Lake Gold Ltd. to assess regional exploration opportunities around the company's Timmins properties and Kirkland's Holt Complex in Ontario, Canada. Newmont Corporation was founded in 1916 and is headquartered in Greenwood Village, Colorado.
+city >>> Greenwood Village
+phone >>> 303-863-7414
+state >>> CO
+country >>> United States
+companyOfficers >>> []
+website >>> http://www.newmont.com
+maxAge >>> 1

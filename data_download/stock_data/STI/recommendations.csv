@@ -1,0 +1,170 @@
+Date	Firm	To Grade	From Grade	Action
+2012-07-02	Morgan Stanley	Overweight		up
+2012-07-23	Credit Suisse	Outperform		main
+2012-07-27	ISI Group	Hold		up
+2012-09-06	JP Morgan	Overweight		up
+2012-09-07	Oppenheimer	Outperform		main
+2012-09-07	Morgan Stanley	Overweight		main
+2012-09-07	UBS	Buy		main
+2012-09-07	Jefferies	Buy		main
+2012-09-07	Goldman Sachs	Neutral		main
+2012-09-07	ISI Group	Hold		main
+2012-09-07	Bank of America	Underperform		main
+2012-09-07	Barclays	Underweight		main
+2012-09-14	Credit Suisse	Outperform		main
+2012-09-17	Jefferies	Buy		main
+2012-09-24	Compass Point	Neutral		down
+2012-09-28	Citigroup	Neutral		main
+2012-09-28	JP Morgan	Overweight		main
+2012-10-02	Drexel Hamilton	Hold		init
+2012-10-12	BTIG Research	Neutral		down
+2012-10-22	Bank of America	Underperform		main
+2012-10-23	Jefferies	Buy		main
+2012-10-23	Susquehanna	Neutral		down
+2013-01-04	Goldman Sachs	Buy		up
+2013-01-04	Deutsche Bank	Hold		main
+2013-01-22	Credit Suisse	Outperform		main
+2013-02-06	Nomura	Neutral		init
+2013-02-15	Jefferies	Hold		down
+2013-03-01	Rafferty	Buy		init
+2013-04-02	Credit Suisse	Neutral		down
+2013-04-22	Compass Point	Neutral		main
+2013-04-29	FBR Capital	Outperform		up
+2013-05-09	FIG Partners	Market Perform		down
+2013-05-22	Oppenheimer	Perform		down
+2013-05-23	Guggenheim	Buy		up
+2013-05-29	Standpoint Research	Buy		init
+2013-06-14	UBS	Neutral		down
+2013-07-09	BMO Capital	Market Perform		down
+2013-07-10	JP Morgan	Overweight		main
+2013-07-22	Sandler O'Neill	Hold		down
+2013-07-22	BMO Capital	Market Perform		main
+2013-07-22	Jefferies	Hold		main
+2013-07-22	Compass Point	Neutral		main
+2013-08-15	Drexel Hamilton	Buy		up
+2013-09-06	Deutsche Bank	Buy		up
+2013-10-07	ISI Group	Neutral		init
+2013-10-21	Compass Point	Buy		main
+2013-11-14	Oppenheimer	Outperform		up
+2013-12-04	Morgan Stanley	Equal-weight		down
+2014-01-06	Barclays	Equal-weight		up
+2014-01-07	BMO Capital	Outperform		up
+2014-01-09	Bank of America	Neutral		up
+2014-01-21	Compass Point	Buy		main
+2014-04-21	Compass Point	Buy		main
+2014-04-22	Oppenheimer	Outperform		init
+2014-04-22	Barclays	Equal-Weight		main
+2014-04-24	Deutsche Bank	Buy		main
+2014-04-29	JP Morgan	Overweight		main
+2014-05-14	Nomura	Neutral		init
+2014-06-09	Keefe, Bruyette & Woods	Outperform		up
+2014-07-22	Evercore Partners	Equal-Weight		down
+2014-07-23	Citigroup	Neutral		main
+2014-09-04	JP Morgan	Overweight		main
+2014-10-07	Bernstein	Market Perform		init
+2014-10-07	Oppenheimer	Outperform		main
+2014-10-07	Citigroup	Neutral		main
+2014-10-20	Compass Point	Buy		main
+2014-10-20	Susquehanna	Positive		up
+2014-12-03	Morgan Stanley	Equal-Weight		main
+2015-01-05	Barclays	Equal-Weight		main
+2015-01-08	JP Morgan	Overweight		main
+2015-01-20	Sandler O'Neil	Buy		up
+2015-01-20	Keefe Bruyette & Woods	Outperform		main
+2015-02-04	Standpoint Research	Buy		up
+2015-02-10	Deutsche Bank	Buy		main
+2015-03-13	Oppenheimer	Outperform		main
+2015-04-01	JP Morgan	Overweight		main
+2015-04-21	Barclays	Equal-Weight		main
+2015-04-21	Oppenheimer	Outperform		main
+2015-05-11	Susquehanna	Positive		main
+2015-05-20	Keefe Bruyette & Woods	Market Perform		down
+2015-05-20	Baird	Underperform		down
+2015-06-12	BMO Capital	Outperform		main
+2015-06-18	Stephens & Co.	Equal-Weight		init
+2015-06-19	JP Morgan	Overweight		main
+2015-06-29	Oppenheimer	Perform		down
+2015-07-20	BMO Capital	Market Perform		down
+2015-07-20	Keefe Bruyette & Woods	Market Perform		main
+2015-07-20	RBC Capital	Outperform		main
+2015-08-19	Sterne Agee CRT	Neutral		init
+2015-08-25	Baird	Neutral		up
+2015-09-09	CLSA	Outperform		up
+2015-10-19	BMO Capital	Market Perform		main
+2015-10-19	Barclays	Equal-Weight		main
+2015-10-19	Jefferies	Hold		main
+2015-10-20	Macquarie	Neutral		main
+2015-10-21	Citigroup	Neutral		main
+2015-11-23	PiperJaffray	Overweight		init
+2016-01-08	Bernstein	Outperform		up
+2016-01-12	Bank of America	Buy		up
+2016-01-25	Barclays	Equal-Weight		main
+2016-01-26	Deutsche Bank	Buy		main
+2016-02-11	Nomura	Neutral		main
+2016-02-29	Credit Suisse	Underperform		main
+2016-04-07	JP Morgan	Overweight		main
+2016-04-25	Citigroup	Neutral		main
+2016-06-07	Susquehanna	Neutral		down
+2016-07-15	Baird			down
+2016-07-25	Goldman Sachs	Buy		main
+2016-08-16	Bernstein	Market Perform		down
+2016-09-23	CLSA	Buy		main
+2016-10-07	Wedbush	Neutral		init
+2016-11-14	Morgan Stanley	Underweight		down
+2016-11-15	Standpoint Research	Hold		down
+2016-11-18	Wells Fargo	Market Perform		down
+2016-11-23	Compass Point	Neutral		down
+2016-11-30	Deutsche Bank	Buy		main
+2017-01-11	UBS	Neutral		init
+2017-04-03	Jefferies	Buy		up
+2017-05-01	Wedbush	Outperform		up
+2017-06-05	Baird	Neutral		up
+2017-07-25	Morgan Stanley	Underweight		main
+2017-08-03	Morgan Stanley	Equal-Weight	Underweight	up
+2017-09-28	Nomura	Neutral		main
+2017-10-06	UBS	Neutral		main
+2017-10-09	Citigroup	Neutral		main
+2017-10-10	FBR Capital	Neutral	Buy	down
+2017-10-10	Citigroup	Neutral		main
+2017-10-23	Sandler O'Neill	Hold	Buy	down
+2017-10-23	Barclays	Equal-Weight		main
+2017-10-23	Morgan Stanley	Equal-Weight		main
+2017-10-23	Raymond James	Market Perform	Outperform	down
+2017-10-26	Nomura	Neutral		main
+2017-12-12	UBS	Buy	Neutral	up
+2017-12-13	Keefe Bruyette & Woods	Outperform	Market Perform	up
+2017-12-21	Wedbush	Neutral	Outperform	down
+2018-01-08	Morgan Stanley	Overweight	Equal-Weight	up
+2018-02-02	Morgan Stanley	Overweight	Overweight	main
+2018-03-14	Credit Suisse	Neutral	Underperform	main
+2018-04-23	Stephens & Co.	Equal-Weight	Overweight	down
+2018-04-23	Credit Suisse	Neutral	Neutral	main
+2018-04-23	BMO Capital	Market Perform	Market Perform	main
+2018-06-27	Bernstein	Outperform	Market Perform	up
+2018-06-29	Sandler O'Neill	Buy	Hold	up
+2018-07-02	Argus	Buy	Hold	up
+2018-07-23	B. Riley FBR	Buy	Neutral	up
+2018-07-23	BMO Capital	Market Perform	Market Perform	main
+2018-07-23	Barclays	Equal-Weight	Equal-Weight	main
+2018-07-24	Morgan Stanley	Overweight	Overweight	main
+2018-08-28	Edward Jones	Hold		init
+2018-09-13	PiperJaffray	Neutral	Overweight	down
+2018-10-22	BMO Capital	Market Perform	Market Perform	main
+2018-12-07	Credit Suisse	Neutral	Neutral	main
+2019-01-02	Baird	Outperform	Neutral	up
+2019-01-08	Jefferies	Hold	Buy	down
+2019-01-28	Baird	Neutral	Outperform	down
+2019-02-08	Sandler O'Neill	Hold	Buy	down
+2019-02-08	Bernstein	Market Perform	Outperform	down
+2019-02-08	Macquarie	Neutral	Underperform	up
+2019-02-11	BMO Capital	Market Perform	Market Perform	main
+2019-03-04	UBS	Neutral	Buy	down
+2019-03-11	Morgan Stanley	Equal-Weight	Overweight	down
+2019-04-22	Morgan Stanley	Equal-Weight	Equal-Weight	main
+2019-07-10	UBS	Neutral		main
+2019-10-03	UBS	Neutral		main
+2019-10-08	Jefferies	Buy	Hold	up
+2019-10-21	UBS	Neutral		main
+2019-10-29	Morgan Stanley	Equal-Weight		main
+2019-11-18	Morgan Stanley	Equal-Weight		main
+2019-11-20	Janney Capital	Neutral	Buy	down

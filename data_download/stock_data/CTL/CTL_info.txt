@@ -1,0 +1,3 @@
+zip >>> 71203
+sector >>> Technology
+fullTimeEmployees >>> 40000

@@ -1,0 +1,3 @@
+zip >>> 92130
+sector >>> Healthcare
+fullTimeEmployees >>> 780

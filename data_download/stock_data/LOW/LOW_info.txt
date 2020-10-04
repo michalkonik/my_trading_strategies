@@ -1,0 +1,11 @@
+zip >>> 28117
+sector >>> Consumer Cyclical
+fullTimeEmployees >>> 300000
+longBusinessSummary >>> Lowe's Companies, Inc., together with its subsidiaries, operates as a home improvement retailer in the United States, Canada, and Mexico. The company offers a line of products for construction, maintenance, repair, remodeling, and decorating. It provides home improvement products in various categories, such as appliances, décor, paint, hardware, millwork, lawn and garden, lighting, lumber and building materials, flooring, kitchens and bath, rough plumbing and electrical, seasonal and outdoor living, and tools. It also offers installation services through independent contractors in various product categories; extended protection plans; and in-warranty and out-of-warranty repair services. The company sells its national brand-name merchandise and private branded products to homeowners, renters, and professional customers. As of January 31, 2020, it operated 1,977 home improvement and hardware stores. The company also sells its products through websites comprising Lowes.com and Lowesforpros.com; and through mobile applications. Lowe's Companies, Inc. was founded in 1946 and is based in Mooresville, North Carolina.
+city >>> Mooresville
+phone >>> 704 758 1000
+state >>> NC
+country >>> United States
+companyOfficers >>> []
+website >>> http://www.lowes.com
+maxAge >>> 1

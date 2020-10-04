@@ -1,0 +1,256 @@
+Date	Firm	To Grade	From Grade	Action
+2012-02-16	Canaccord Genuity	Hold		down
+2012-02-16	Deutsche Bank	Buy		main
+2012-03-05	Morgan Keegan	Outperform		main
+2012-05-08	Canaccord Genuity	Buy		up
+2012-05-18	Deutsche Bank	Buy		main
+2012-05-22	Societe Generale	Buy		up
+2012-07-02	Stifel Nicolaus	Hold	Buy	down
+2012-07-02	Barclays	Overweight		main
+2012-07-16	Deutsche Bank	Buy		main
+2012-07-20	JP Morgan	Overweight		main
+2012-08-03	Deutsche Bank	Buy		main
+2012-08-16	Imperial Capital	Outperform		init
+2012-08-17	Canaccord Genuity	Buy		main
+2012-08-22	Barclays	Overweight		main
+2012-10-10	Canaccord Genuity	Buy		main
+2012-10-12	Barclays	Overweight		main
+2012-10-22	iBERIA Capital Partners	Outperform		init
+2012-10-26	KLR Group	Accumulate		init
+2012-11-05	BMO Capital	Market Perform		main
+2012-11-05	Canaccord Genuity	Buy		main
+2012-11-06	Barclays	Overweight		main
+2012-11-07	Canaccord Genuity	Buy		main
+2012-11-12	Macquarie	Outperform	Neutral	up
+2012-12-21	Global Hunter Securities	Buy		init
+2013-01-07	Canaccord Genuity	Buy		main
+2013-01-08	Brean Capital	Hold		init
+2013-02-20	JP Morgan	Overweight		main
+2013-02-20	Dahlman Rose	Buy		main
+2013-02-20	Deutsche Bank	Buy		main
+2013-02-21	BMO Capital	Outperform	Market Perform	up
+2013-03-20	FBR Capital	Market Perform	Outperform	down
+2013-03-22	Deutsche Bank	Buy		main
+2013-03-27	Topeka	Hold		init
+2013-04-01	Global Hunter Securities	Neutral	Buy	down
+2013-05-07	ISI Group	Buy		init
+2013-07-17	Morgan Stanley	Equal-Weight		main
+2013-08-21	Citigroup	Neutral		init
+2013-08-22	Citigroup	Neutral		init
+2013-08-27	FBR Capital	Outperform	Market Perform	up
+2013-09-09	Raymond James	Outperform		up
+2013-09-09	Morgan Stanley	Overweight	Equal-Weight	up
+2013-09-10	Canaccord Genuity	Buy		init
+2013-09-13	KLR Group	Hold	Accumulate	down
+2013-09-23	Deutsche Bank	Buy		main
+2013-10-23	FBR Capital	Market Perform	Outperform	down
+2013-11-19	Citigroup	Neutral		main
+2013-11-22	Stifel Nicolaus	Buy	Hold	up
+2013-12-05	Macquarie	Neutral	Outperform	down
+2013-12-09	Deutsche Bank	Buy		main
+2013-12-12	Citigroup	Neutral		main
+2013-12-13	Wunderlich	Buy		init
+2013-12-13	Citigroup	Neutral		main
+2014-02-20	Stifel Nicolaus	Buy		main
+2014-02-21	Scotia Howard Weil		Sector Perform	up
+2014-03-12	Morgan Stanley	Overweight		main
+2014-03-17	Wunderlich	Buy		main
+2014-03-25	Raymond James	Outperform		main
+2014-04-01	Deutsche Bank	Buy		main
+2014-04-17	KeyBanc	Buy		main
+2014-04-21	KLR Group	Hold	Accumulate	down
+2014-05-06	Societe Generale	Hold	Buy	down
+2014-05-07	KeyBanc	Buy		main
+2014-05-07	Raymond James	Outperform		main
+2014-05-07	Morgan Stanley	Overweight		main
+2014-05-08	Barclays	Overweight		main
+2014-05-30	Tudor Pickering	Buy	Accumulate	up
+2014-06-11	Deutsche Bank	Buy		main
+2014-06-17	Seaport Global	Buy	Neutral	up
+2014-06-24	GMP Securities	Buy		init
+2014-06-27	JP Morgan	Overweight		main
+2014-07-01	Canaccord Genuity	Buy		init
+2014-07-02	Canaccord Genuity	Buy		main
+2014-07-14	Citigroup	Neutral		main
+2014-07-18	Deutsche Bank	Buy		main
+2014-07-23	Barclays	Overweight		main
+2014-08-06	Brean Capital	Neutral	Buy	down
+2014-08-06	ISI Group	Neutral	Buy	down
+2014-08-08	KLR Group		Hold	up
+2014-10-01	Stifel Nicolaus	Buy		main
+2014-10-09	KeyBanc	Buy		main
+2014-10-09	Barclays	Overweight		main
+2014-10-22	Wunderlich	Buy		main
+2014-11-07	Barclays	Overweight		main
+2014-12-08	Citigroup	Neutral		main
+2014-12-11	Deutsche Bank	Buy		main
+2014-12-16	Barclays	Overweight		main
+2014-12-16	Scotia Howard Weil		Sector Outperform	up
+2014-12-16	Oppenheimer	Perform		init
+2015-01-06	Deutsche Bank	Buy		main
+2015-01-14	Barclays	Overweight		main
+2015-02-03	Stifel Nicolaus	Buy		main
+2015-02-17	Wolfe Research	Outperform		init
+2015-02-24	Jefferies	Underperform		main
+2015-03-03	Citigroup	Buy		main
+2015-04-15	Stifel Nicolaus	Buy		main
+2015-04-15	Goldman Sachs	Neutral		init
+2015-04-20	KLR Group	Hold	Accumulate	down
+2015-04-22	Nomura	Neutral		init
+2015-04-24	Jefferies	Underweight		main
+2015-04-28	Cowen & Co.	Outperform		init
+2015-05-05	Topeka	Hold		main
+2015-05-07	Citigroup	Buy	Neutral	up
+2015-06-02	Evercore ISI Group	Hold		init
+2015-06-03	Barclays	Overweight		main
+2015-06-04	Deutsche Bank	Hold	Buy	down
+2015-06-30	Stephens & Co.	Overweight		init
+2015-07-13	Barclays	Overweight		main
+2015-07-14	Deutsche Bank	Hold		main
+2015-08-10	CLSA	Outperform	Underperform	up
+2015-09-08	Barclays	Overweight		main
+2015-09-14	Citigroup	Neutral		main
+2015-10-14	Deutsche Bank	Hold		main
+2015-10-14	Barclays	Overweight		main
+2015-10-20	Canaccord Genuity	Hold		init
+2015-10-30	Susquehanna	Neutral		init
+2015-11-05	Wunderlich	Hold	Buy	down
+2015-11-12	Stephens & Co.	Equal-Weight	Overweight	down
+2015-12-09	Deutsche Bank	Hold		main
+2015-12-09	JP Morgan	Neutral		init
+2015-12-15	UBS	Neutral		init
+2015-12-16	SunTrust Robinson Humphrey	Buy		init
+2015-12-17	SunTrust Robinson Humphrey	Buy		init
+2016-01-05	Citigroup	Buy	Neutral	up
+2016-01-21	Nomura	Neutral		main
+2016-01-21	Deutsche Bank	Hold		main
+2016-01-25	Topeka	Hold		main
+2016-01-28	Barclays	Overweight		main
+2016-01-28	Wunderlich	Buy	Hold	up
+2016-01-29	Barclays	Overweight		main
+2016-02-02	JP Morgan	Neutral		main
+2016-02-17	Scotia Howard Weil	Outperform		main
+2016-02-17	UBS	Neutral		main
+2016-02-19	Barclays	Overweight		main
+2016-02-23	Deutsche Bank	Hold		main
+2016-05-06	Wunderlich	Buy		main
+2016-07-14	Barclays	Overweight		main
+2016-08-04	UBS	Neutral		main
+2016-08-08	Barclays	Overweight		main
+2016-08-10	Deutsche Bank	Hold		main
+2016-08-11	Citigroup	Buy		main
+2016-08-29	Williams Capital	Hold		init
+2016-08-31	Wells Fargo	Outperform		init
+2016-09-12	Citigroup	Buy		main
+2016-09-13	FBR Capital	Outperform		init
+2016-11-04	Susquehanna	Positive	Neutral	up
+2016-11-07	KLR Group	Accumulate	Hold	up
+2016-12-08	JP Morgan	Overweight	Neutral	up
+2016-12-16	Wells Fargo	Market Perform	Outperform	down
+2016-12-16	Goldman Sachs	Buy	Neutral	up
+2017-01-17	SunTrust Robinson Humphrey	Hold	Buy	down
+2017-02-17	KLR Group	Buy	Hold	up
+2017-03-31	Seaport Global	Neutral	Buy	down
+2017-06-02	Credit Suisse	Outperform		init
+2017-07-13	Citigroup	Buy		main
+2017-07-21	Citigroup	Buy		main
+2017-08-10	Morgan Stanley	Overweight		main
+2017-08-15	Barclays	Overweight		main
+2017-09-18	PiperJaffray	Neutral		main
+2017-09-19	Imperial Capital	Outperform		init
+2017-10-11	Barclays	Overweight		main
+2017-10-13	Citigroup	Buy		main
+2017-10-18	Morgan Stanley	Overweight		main
+2017-11-08	KeyBanc	Buy		main
+2017-11-09	Imperial Capital	Outperform		main
+2017-11-13	Susquehanna	Neutral	Positive	down
+2017-11-20	Barclays	Overweight		main
+2017-12-12	Credit Suisse	Outperform		init
+2017-12-19	Seaport Global	Buy	Neutral	up
+2017-12-19	Baird	Outperform		init
+2018-02-02	Deutsche Bank	Hold		init
+2018-02-06	SunTrust Robinson Humphrey	Buy	Hold	up
+2018-02-07	Morgan Stanley	Overweight	Overweight	main
+2018-02-15	Credit Suisse	Outperform	Outperform	main
+2018-02-20	KLR Group	Buy	Hold	up
+2018-03-05	Credit Suisse	Outperform	Outperform	main
+2018-03-07	UBS	Buy		init
+2018-04-20	Morgan Stanley	Overweight	Overweight	main
+2018-05-09	Stifel Nicolaus	Buy	Buy	main
+2018-05-10	Bank of America	Neutral	Buy	down
+2018-05-24	Morgan Stanley	Overweight	Overweight	main
+2018-06-11	Jefferies	Buy	Hold	up
+2018-06-15	Citigroup	Buy	Buy	main
+2018-06-21	Bank of America	Buy	Neutral	up
+2018-07-12	Morgan Stanley	Overweight	Overweight	main
+2018-08-08	Credit Suisse	Outperform	Outperform	main
+2018-08-08	Stifel Nicolaus	Buy	Buy	main
+2018-08-08	JP Morgan	Neutral	Overweight	down
+2018-08-16	Morgan Stanley	Overweight	Overweight	main
+2018-09-07	SunTrust Robinson Humphrey	Hold	Buy	down
+2018-09-26	Morgan Stanley	Overweight	Overweight	main
+2018-10-12	Morgan Stanley	Overweight	Overweight	main
+2018-11-20	Imperial Capital	In-Line	Outperform	down
+2018-11-20	Morgan Stanley	Overweight	Overweight	main
+2019-01-16	Barclays	Equal-Weight		init
+2019-01-30	Mizuho	Neutral		init
+2019-02-08	Susquehanna	Positive	Neutral	up
+2019-03-20	Capital One Financial	Equal-Weight	Overweight	down
+2019-03-21	Morgan Stanley	Overweight	Overweight	main
+2019-05-20	SunTrust Robinson Humphrey	Buy	Hold	up
+2019-05-23	Capital One Financial	Overweight	Equal-Weight	up
+2019-06-27	KeyBanc	Overweight		init
+2019-07-11	BMO Capital	Market Perform	Outperform	down
+2019-07-12	Morgan Stanley	Overweight		main
+2019-07-16	Imperial Capital	In-Line	Outperform	down
+2019-07-18	Citigroup	Buy		main
+2019-08-06	Bank of America	Buy		reit
+2019-08-07	Imperial Capital	In-Line		main
+2019-08-08	MKM Partners	Buy		main
+2019-08-14	Morgan Stanley	Overweight		main
+2019-08-15	Citigroup	Buy		main
+2019-09-20	Wells Fargo	Market Perform		main
+2019-09-23	Citigroup	Buy		main
+2019-10-15	KeyBanc	Overweight		main
+2019-11-11	UBS	Buy		main
+2019-11-12	Wells Fargo	Market Perform		main
+2019-11-13	Morgan Stanley	Overweight		main
+2019-11-26	Morgan Stanley	Overweight		main
+2019-12-06	Barclays	Equal-Weight		main
+2020-01-09	Wells Fargo	Equal-Weight		main
+2020-01-09	JP Morgan	Overweight	Neutral	up
+2020-01-13	Morgan Stanley	Equal-Weight	Overweight	down
+2020-01-13	Susquehanna	Negative	Positive	down
+2020-01-21	SunTrust Robinson Humphrey	Buy		main
+2020-01-23	KeyBanc	Overweight		main
+2020-01-23	Credit Suisse	Outperform	Underperform	up
+2020-01-27	Morgan Stanley	Equal-Weight		main
+2020-02-21	MKM Partners	Buy		main
+2020-03-10	Wells Fargo	Equal-Weight		reit
+2020-03-11	Cowen & Co.	Outperform	Market Perform	up
+2020-03-16	Morgan Stanley	Overweight	Equal-Weight	up
+2020-03-19	Wells Fargo	Equal-Weight		main
+2020-03-26	KeyBanc	Overweight		main
+2020-03-31	UBS	Buy		main
+2020-03-31	Stifel	Buy	Hold	up
+2020-04-03	Mizuho	Buy	Neutral	up
+2020-04-03	Wells Fargo	Equal-Weight		main
+2020-04-16	Stifel	Buy		main
+2020-04-20	B of A Securities	Underperform		main
+2020-04-24	Baird	Outperform		main
+2020-05-07	B of A Securities	Underperform		reit
+2020-05-19	Morgan Stanley	Overweight		main
+2020-05-20	RF Lafferty	Buy		init
+2020-06-03	Barclays	Overweight		main
+2020-06-11	KeyBanc	Overweight		main
+2020-06-25	Wells Fargo	Equal-Weight		main
+2020-06-29	UBS	Buy		main
+2020-07-08	Morgan Stanley	Overweight		main
+2020-07-13	ScotiaBank	Sector Perform		main
+2020-07-20	Barclays	Overweight		main
+2020-07-27	Seaport Global	Buy		init
+2020-08-06	Stifel	Buy		main
+2020-08-13	Wells Fargo	Equal-Weight		main
+2020-08-13	Piper Sandler	Overweight	Neutral	up
+2020-08-21	Morgan Stanley	Overweight		main
+2020-09-14	Wells Fargo	Overweight	Equal-Weight	up
