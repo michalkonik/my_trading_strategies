@@ -1,0 +1,59 @@
+Date	Firm	To Grade	From Grade	Action
+2018-11-06 13:04:55	Goldman Sachs	Neutral		init
+2018-11-06 13:23:26	Canaccord Genuity	Buy		init
+2018-11-06 13:26:11	Morgan Stanley	Equal-Weight		init
+2018-11-06 13:29:40	KeyBanc	Sector Weight		init
+2019-02-08 11:53:49	Barclays	Equal-Weight	Overweight	down
+2019-03-25 13:48:14	Monness Crespi Hardt	Buy		init
+2019-04-11 12:44:26	FBN Securities	Outperform		init
+2019-06-07 10:03:55	KeyBanc	Overweight	Sector Weight	up
+2019-07-01 10:52:30	Goldman Sachs	Buy	Neutral	up
+2019-07-15 13:25:07	Macquarie	Outperform		init
+2019-07-24 10:26:16	Deutsche Bank	Buy		init
+2019-08-13 11:13:35	Compass Point	Neutral		init
+2019-08-15 12:33:27	Morgan Stanley	Equal-Weight		main
+2019-08-28 11:22:34	Goldman Sachs	Buy		main
+2019-08-28 11:23:28	Canaccord Genuity	Buy		main
+2019-08-28 11:24:20	Barclays	Equal-Weight		main
+2019-08-28 12:01:50	Morgan Stanley	Equal-Weight		main
+2019-08-28 12:26:22	SunTrust Robinson Humphrey	Buy		reit
+2019-08-28 12:38:00	Needham	Buy		main
+2019-09-25 10:58:53	Rosenblatt	Buy		init
+2019-10-22 10:14:37	Evercore ISI Group	Outperform	In-Line	up
+2019-10-25 11:23:18	Citi	Neutral		init
+2019-11-22 13:37:17	Morgan Stanley	Equal-Weight		main
+2020-01-28 12:07:51	Wells Fargo	Overweight		init
+2020-02-12 13:04:58	RBC Capital	Outperform		main
+2020-02-20 13:04:37	Morgan Stanley	Equal-Weight		main
+2020-02-28 13:09:53	Morgan Stanley	Equal-Weight		main
+2020-02-28 14:16:42	SunTrust Robinson Humphrey	Buy		main
+2020-03-02 13:05:23	Citigroup	Neutral		main
+2020-03-11 11:59:18	Wells Fargo	Overweight		main
+2020-03-25 18:29:55	Morgan Stanley	Equal-Weight		main
+2020-03-31 10:31:14	Piper Sandler	Overweight		main
+2020-04-13 11:31:38	Needham	Buy		main
+2020-04-16 11:25:38	Rosenblatt	Neutral	Buy	down
+2020-04-21 11:59:36	Deutsche Bank	Buy		init
+2020-05-20 09:08:21	Wells Fargo	Equal-Weight	Overweight	down
+2020-05-20 12:39:30	Mizuho	Buy		main
+2020-05-21 13:20:01	RBC Capital	Outperform		main
+2020-05-22 12:18:23	Morgan Stanley	Equal-Weight		main
+2020-05-27 11:00:58	Rosenblatt	Neutral		main
+2020-05-27 11:31:51	Deutsche Bank	Buy		main
+2020-05-27 12:24:28	Mizuho	Buy		main
+2020-07-01 11:04:38	KeyBanc	Overweight		init
+2020-08-21 09:51:59	Loop Capital	Sell		init
+2020-08-27 08:52:58	KeyBanc	Overweight		main
+2020-08-27 10:58:59	Needham	Buy		main
+2020-08-27 11:09:52	Citigroup	Neutral		main
+2020-08-27 11:41:38	Morgan Stanley	Equal-Weight		main
+2020-10-07 10:04:27	Jefferies	Hold		init
+2020-11-10 14:12:06	Berenberg	Buy		init
+2020-11-25 08:44:22	KeyBanc	Overweight		main
+2020-11-25 10:51:22	Needham	Buy		main
+2020-11-25 12:56:04	Morgan Stanley	Equal-Weight		main
+2020-12-28 11:23:43	Needham	Buy		main
+2021-01-05 12:12:51	Wells Fargo	Overweight	Equal-Weight	up
+2021-01-11 09:54:15	Piper Sandler	Overweight	Neutral	up
+2021-01-11 10:34:50	Jefferies	Buy	Hold	up
+2021-01-15 16:37:10	William Blair	Outperform		init

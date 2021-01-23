@@ -1,0 +1,155 @@
+Date	Firm	To Grade	From Grade	Action
+2012-04-18	Stifel Nicolaus	Buy		init
+2012-04-20	Deutsche Bank	Buy		main
+2012-04-23	Citigroup	Buy		main
+2012-05-23	Sterne Agee	Buy		up
+2012-06-01	Goldman Sachs	Buy		up
+2012-07-09	Jefferies	Buy		main
+2012-07-24	Barclays	Overweight		main
+2012-10-17	Barclays	Overweight		main
+2012-10-19	Barclays	Overweight		main
+2012-10-19	Jefferies	Buy		main
+2013-01-09	Jefferies	Buy		main
+2013-01-11	BMO Capital	Outperform		main
+2013-02-01	Jefferies	Buy		main
+2013-02-01	BMO Capital	Outperform		main
+2013-02-06	Citigroup	Buy		main
+2013-04-10	BMO Capital	Outperform		main
+2013-04-15	Jefferies	Buy		main
+2013-04-19	Stifel Nicolaus	Buy		main
+2013-04-24	Citigroup	Buy		main
+2013-05-15	Barclays	Overweight		main
+2013-08-12	RBC Capital	Outperform		init
+2013-08-13	RBC Capital	Outperform		init
+2013-09-16	Bank of America	Buy	Neutral	up
+2013-10-11	Evercore Partners	Equal-Weight		init
+2013-12-18	Citigroup	Buy		main
+2014-01-29	Deutsche Bank	Buy		init
+2014-01-31	Citigroup	Buy		main
+2014-03-19	Morgan Stanley	Overweight		main
+2014-04-03	Bernstein	Outperform		init
+2014-04-09	Citigroup	Buy		main
+2014-04-10	Citigroup	Buy		main
+2014-07-14	Deutsche Bank	Buy		main
+2014-07-18	JMP Securities	Market Outperform		main
+2014-07-18	Jefferies	Buy		main
+2014-07-18	Deutsche Bank	Buy		main
+2014-07-18	Credit Suisse	Outperform		main
+2014-09-11	Deutsche Bank	Buy		main
+2014-10-08	Jefferies	Buy		main
+2014-10-08	Citigroup	Buy		main
+2014-10-14	Keefe Bruyette & Woods	Outperform		main
+2014-10-17	Deutsche Bank	Buy		main
+2014-11-20	Credit Suisse	Outperform		main
+2014-12-04	Barclays	Overweight		init
+2014-12-12	Deutsche Bank	Buy		main
+2014-12-15	Morgan Stanley	Outperform		init
+2015-01-09	Citigroup	Buy		main
+2015-01-13	Barclays	Overweight		main
+2015-01-14	Keefe Bruyette & Woods	Outperform		main
+2015-01-30	Keefe Bruyette & Woods			main
+2015-01-30	Jefferies	Buy		main
+2015-01-30	Citigroup	Buy		main
+2015-01-30	Barclays	Overweight		main
+2015-02-20	Barclays	Overweight		main
+2015-03-06	Deutsche Bank	Buy		main
+2015-04-07	JMP Securities	Market Outperform		main
+2015-04-10	Barclays	Overweight		main
+2015-04-13	Deutsche Bank	Buy		main
+2015-04-17	Barclays	Overweight		main
+2015-04-17	Keefe Bruyette & Woods	Outperform		main
+2015-05-08	Deutsche Bank	Buy		main
+2015-05-22	Susquehanna	Positive		init
+2015-06-03	PiperJaffray	Overweight		init
+2015-07-09	Susquehanna	Positive		main
+2015-07-10	Deutsche Bank	Buy		main
+2015-07-10	Barclays	Overweight		main
+2015-07-15	Citigroup	Buy		main
+2015-08-11	Barclays	Overweight		main
+2015-08-11	Goldman Sachs	Buy		init
+2015-09-03	Susquehanna	Positive		main
+2015-09-09	Deutsche Bank	Buy		main
+2015-10-07	Jefferies	Buy		main
+2015-10-08	JMP Securities	Market Outperform		main
+2015-10-08	Barclays	Overweight		main
+2015-11-23	JP Morgan	Neutral		init
+2015-12-08	Bank of America	Neutral	Buy	down
+2015-12-14	William Blair	Outperform		init
+2015-12-16	Deutsche Bank	Buy		main
+2016-01-13	Keefe Bruyette & Woods	Outperform		main
+2016-01-19	Deutsche Bank	Buy		main
+2016-01-21	Oppenheimer	Outperform		main
+2016-01-29	Credit Suisse	Outperform		main
+2016-02-09	Deutsche Bank	Buy		main
+2016-03-11	Deutsche Bank	Hold	Buy	down
+2016-04-05	Deutsche Bank	Hold		main
+2016-04-05	Barclays	Overweight		main
+2016-06-16	Deutsche Bank	Hold		main
+2016-07-07	Barclays	Overweight		main
+2016-07-11	Keefe Bruyette & Woods	Market Perform		main
+2016-08-02	Jefferies	Buy		main
+2016-08-09	Barclays	Overweight		main
+2016-10-13	Barclays	Overweight		main
+2017-05-22	Citigroup	Buy	Neutral	up
+2017-07-14	Oppenheimer	Outperform		main
+2017-07-21	Deutsche Bank	Hold		main
+2017-07-25	Morgan Stanley	Outperform		main
+2017-10-20	Bank of America	Buy		main
+2017-10-23	Morgan Stanley	Overweight		main
+2018-01-12	JP Morgan	Overweight	Neutral	up
+2018-02-06	JP Morgan	Neutral	Overweight	down
+2018-04-23	Morgan Stanley	Overweight	Overweight	main
+2018-07-12	Morgan Stanley	Overweight	Overweight	main
+2018-07-20	Credit Suisse	Outperform	Outperform	main
+2018-07-20	Citigroup	Buy	Buy	main
+2018-08-14	Morgan Stanley	Overweight	Overweight	main
+2018-09-24	Bank of America	Buy	Buy	main
+2018-09-24	JMP Securities	Market Outperform	Market Outperform	main
+2018-09-24	Morgan Stanley	Overweight	Overweight	main
+2018-09-25	Citigroup	Buy	Buy	main
+2018-09-25	Argus	Buy	Buy	main
+2018-10-25	Citigroup	Buy	Buy	main
+2018-11-14	Morgan Stanley	Overweight	Overweight	main
+2018-11-16	Deutsche Bank	Hold	Hold	main
+2019-01-04	Morgan Stanley	Overweight	Overweight	main
+2019-04-22	Morgan Stanley	Overweight	Overweight	main
+2019-06-05	Morgan Stanley	Overweight		main
+2019-07-08	JMP Securities	Market Perform	Market Outperform	down
+2019-07-09	Morgan Stanley	Overweight		main
+2019-07-19	Deutsche Bank	Hold		main
+2019-08-05	Barclays	Overweight		init
+2019-09-09	Citigroup	Buy		main
+2019-09-18	Citi	Neutral	Buy	down
+2019-09-24	Oppenheimer	Perform	Outperform	down
+2019-10-01	Wells Fargo	Outperform		init
+2019-10-08	BMO Capital	Market Perform		init
+2019-10-14	Bank of America	Neutral	Buy	down
+2019-10-24	Barclays	Overweight		main
+2019-10-24	BMO Capital	Market Perform		main
+2019-10-25	Morgan Stanley	Overweight		main
+2019-12-19	Wells Fargo	Overweight		main
+2019-12-19	Deutsche Bank	Hold		main
+2020-01-23	Morgan Stanley	Overweight		main
+2020-02-10	Argus Research	Buy		main
+2020-02-19	Morgan Stanley	Overweight		main
+2020-03-13	Morgan Stanley	Overweight		main
+2020-03-23	B of A Securities	Neutral		main
+2020-04-09	Deutsche Bank	Hold		main
+2020-04-15	Wells Fargo	Overweight		main
+2020-04-17	Morgan Stanley	Overweight		main
+2020-04-24	Citigroup	Buy		main
+2020-04-24	Wells Fargo	Overweight		main
+2020-04-27	Morgan Stanley	Overweight		main
+2020-05-13	Wells Fargo	Overweight		main
+2020-05-15	Deutsche Bank	Hold		main
+2020-07-09	Deutsche Bank	Hold		main
+2020-07-10	B of A Securities	Neutral		main
+2020-07-24	Barclays	Overweight		main
+2020-07-24	Credit Suisse	Outperform		main
+2020-07-24	Morgan Stanley	Overweight		main
+2020-07-27	UBS	Buy		main
+2020-10-20	Morgan Stanley	Overweight		main
+2020-10-29	BMO Capital	Market Perform		main
+2020-10-29	Morgan Stanley	Overweight		main
+2020-10-29	Oppenheimer	Outperform	Perform	up
+2021-01-14	Piper Sandler	Overweight		init
