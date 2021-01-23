@@ -1,3 +1,0 @@
-zip >>> 94089
-sector >>> Technology
-fullTimeEmployees >>> 3368

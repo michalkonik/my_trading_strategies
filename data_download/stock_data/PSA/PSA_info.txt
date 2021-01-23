@@ -1,3 +1,0 @@
-zip >>> 91201
-sector >>> Real Estate
-fullTimeEmployees >>> 5900

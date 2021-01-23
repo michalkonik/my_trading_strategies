@@ -1,73 +1,62 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 import pandas as pd
 import numpy as np
 import matplotlib as plt
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
 from datetime import datetime,date
+import functions as fun
 
+#turns off chained assignment warnings
 pd.options.mode.chained_assignment = None
+
+check = -15 #drop threshold to be searched
+period = 7  #number of hours within the drop is being searched
 
 df = pd.read_excel('AAL\AAL.xlsx')
 
-#convert datatype of the column to str
-#df['Date'] = df['Date'].astype(str)
-
 #check datatype of the column
-#print(df.Close.dtype)
+#print(df['Close'].dtype)
 
-def percentage(part, whole):
-    perc = 100 * float(part)/float(whole)
-    perc = perc - 100
-    return perc
-  
-   
-def plot(data_frame, whereami):
-    market_reaction = df[x-30: x+150]
-    x+=30 
-    #print(market_reaction)
-    #print(market_reaction['Date'])
+fun.hours_column_add(df)
+df = df[['Date', 'Hours', 'Open', 'High','Low', 'Close', 'Adj Close', 'Volume']]
+
+def drop_edge_dates(time_window_df, length):
+    beginning_date = time_window_df.iat[0,0]
+    beginning_hour = time_window_df.iat[0,1]
     
-    market_reaction['Date'] = market_reaction['Date'].astype(str)
+    end_date = time_window_df.iat[length-1,0]
+    end_hour = time_window_df.iat[length-1,1]
     
-    fig, ax = plt.subplots(figsize=(15, 9))
 
-    ax.plot(market_reaction.index, market_reaction['Open'], marker='s', linestyle='--', color='green')
-    #ax.plot(market_reaction.index, market_reaction['Close'], marker='v', linestyle='--', color='blue')
 
-    ax.set_xlabel("when exactly")
-    ax.set_ylabel("price")
-    ax.set_title("what happens after 15% drop")
-    
-    plt.axvline(x=x-23, ymin=0.0, ymax=1.0, color='red', linestyle='--', alpha=0.3)
-    plt.axvline(x=x-30, ymin=0.0, ymax=1.0, color='blue', linestyle='--', alpha=0.3)
 
-    plt.xticks(market_reaction.index, market_reaction['Date'].astype(str), rotation=20)
-    ax.xaxis.set_major_locator(ticker.MultipleLocator(7))
-
-    plt.savefig('plot_{}.pdf'.format(market_reaction.iloc[0]['Date']))
-   
-   
+#the row to be checked
 x=0
-for y in range(len(df.index)):
-    #len(df.index)  - ilość wierszy, czyli potrzebnych iteracji   
-    osiem_h_open = df[x : x+7]
-    try:
-        #pierwsza pozycja z kolumny open
-        start_point = osiem_h_open.iat[0,1]
-        #ostatnia pozycja z kolumny close
-        end_point = osiem_h_open.iat[-1,4]
 
-        #print(start_point)
-        #print(end_point)
-        #print('\n')
+for y in range(len(df.index)):
+    #test window definition
+    test_window = df[x : x+period]
+    try:
+        #firs value of Open column
+        start_point = test_window.iat[0,2]
+        #last value of Close column
+        end_point = test_window.iat[-1,5]
         
-        result = percentage(end_point, start_point)
+        result = fun.percentage(end_point, start_point)
         
-        if result < -15:
+        if result < check:
             print(result)
             
-            plot(df, x)
-
+            fun.plot(df, x, check)
+            
+            
+            #drop_edge_dates(test_window, period)
+            
+            #skip 30 rows after drop finding (not to repead for the same event)
+            x+=30
         
         else:
             x+=1

@@ -1,3 +1,0 @@
-zip >>> 43615
-sector >>> Real Estate
-fullTimeEmployees >>> 443
