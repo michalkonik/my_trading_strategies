@@ -1,6 +1,38 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+"""Summary of python script.
+
+#===============================================================
+#% DESCRIPTION
+#%    Script fetched the data form previously prepared json file.
+#%    Then the data is modified and passed to sklearn algorithm, which creates model
+#%    of predicion.
+#%
+#% Usage: load_data_to_df_main..py ticker --implemented
+#%
+#%    ticker - ticker of a company - tsla, all, aapl, nkla
+#%
+#===============================================================
+#- IMPLEMENTATION
+#-    version         1.0.0
+#-    author          Michał Konik
+#-    copyright       GNU General Public License
+#-
+#===============================================================
+#  HISTORY
+#     24/01/2021 : first implementation
+#
+#===============================================================
+#  CREDITS
+#    Inspired by Michel VONGVILAY's bash script template -
+#        - GNU General Public License
+#    +
+#    Rapidapi.com website.
+#
+#===============================================================
+"""
+
 import pandas as pd
 import datetime
 import json
@@ -15,7 +47,6 @@ import fnmatch
 #parse arguments passed while running the script from cmd
 parser = argparse.ArgumentParser()
 parser.add_argument("ticker", help="ticker of a company - tsla, all, aapl, nkla")
-parser.add_argument("-i", "--implemented", action="store_true", help="argument that determines whether it's test run or a prediction of a future in a final implementation")
 args = parser.parse_args()
 
 ticker_uppercase = args.ticker.upper()
@@ -88,14 +119,6 @@ print(X)
 Y = new_data['Close']
 print(Y)
 
-if args.implemented:
-	whole_dataset_passed = 1
-else:
-	whole_dataset_passed = 0.7
-
-print("DZIWKO MNOZ: ")
-print(whole_dataset_passed)
-'''
 #Split the Data into Training and Testing Set
 #we teach the nauron network only 70% of the data, and use the remaining 30% to eveluate the result that we get
 train_pct_index = int(0.7 * len(X))
@@ -133,4 +156,4 @@ plt.title('Linear Regression of Stock Prediction')
 plt.grid()
 plt.legend()
 plt.savefig("{}_prediction_chart.png".format(output_file_name_appendix))
-plt.show()'''
+plt.show()
