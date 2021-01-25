@@ -7,7 +7,7 @@
 #% DESCRIPTION
 #%    Script download data from Bloomberg API, for passed ticker with for passed time period.
 #%
-#% Usage: extract_data_main.py ticker time_period
+#% Usage: one_ticekr_data_extract_with_argparser.py ticker time_period
 #%
 #%    ticker - ticker of a company - tsla, all, aapl, nkla
 #%    time_period - time period for which we want to download a data - d1|d3|ytd|m1|m3|m6|y1|y5

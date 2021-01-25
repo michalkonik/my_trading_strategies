@@ -9,7 +9,7 @@
 #%    Then the data is modified and passed to sklearn algorithm, which creates model
 #%    of predicion.
 #%
-#% Usage: load_data_to_df_main..py ticker --implemented
+#% Usage: one_ticker_data_analysis_with_argparser.py ticker --implemented
 #%
 #%    ticker - ticker of a company - tsla, all, aapl, nkla
 #%
